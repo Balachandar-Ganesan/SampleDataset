@@ -1,0 +1,5 @@
+IncidentSeverityID,incident_severity
+1,Major Damage
+2,Minor Damage
+3,Total Loss
+4,Trivial Damage

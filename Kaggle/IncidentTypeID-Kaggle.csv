@@ -1,0 +1,5 @@
+IncidentTypeId,incident_type
+1,Multi-vehicle Collision
+2,Parked Car
+3,Single Vehicle Collision
+4,Vehicle Theft

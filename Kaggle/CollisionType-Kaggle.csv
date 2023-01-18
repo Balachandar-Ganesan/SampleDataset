@@ -1,0 +1,5 @@
+CollisionTypeID,collision_type
+1,UNK
+2,Front Collision
+3,Rear Collision
+4,Side Collision
