@@ -1,0 +1,1241 @@
+veh_id,type,model,year,price,owner_no
+b306d1a8,Vehicle,INFINITI FX,2011,50964.0,3
+85940927,Machine,John Deere 750C LT,2006,90314.43,3
+6b5f5241,Vehicle,Pontiac Aztek,2005,43983.01,5
+391cf046,Vehicle,Panoz Esperante,2006,25147.18,3
+95bb440d,Vehicle,Ford C-MAX Hybrid,2015,55196.65,5
+95d18051,Vehicle,Mercedes-Benz G-Class,2008,45053.91,5
+27f9e728,Vehicle,GMC Sierra 1500 Crew Cab,2011,89608.86,5
+71df24d9,Vehicle,Subaru Legacy,2006,84662.68,2
+6acf49eb,Vehicle,Nissan Frontier Crew Cab,2006,43186.98,1
+f344c911,Vehicle,INFINITI QX,2011,5478.17,5
+9cdd9f6c,Vehicle,Lexus GS,2005,44170.8,1
+1e454241,Machine,Komatsu PC400LC-8,2008,83994.33,5
+483c1a4e,Machine,Kubota BX23S,2006,79076.18,2
+f8db1a4d,Vehicle,Toyota Prius Prime,2020,46337.47,1
+5ba830dc,Vehicle,MINI Paceman,2015,24772.91,4
+61f68c6e,Vehicle,Toyota 4Runner,2002,83061.37,1
+afc8128a,Vehicle,Pontiac Grand Prix,2006,16847.9,2
+bf5545ce,Vehicle,Mercedes-Benz 300 D,1993,60793.76,1
+5cfa38b1,Vehicle,Oldsmobile Aurora,1999,5935.84,4
+e994f3e6,Vehicle,Jeep Gladiator,2020,98044.22,5
+5cba9be3,Vehicle,Maserati GranTurismo,2012,87491.73,3
+d7604342,Vehicle,BMW X1,2018,5025.66,3
+cc4e66da,Vehicle,Acura RDX,2008,34007.43,3
+647640a1,Vehicle,Ford Mustang,2014,98209.49,3
+1ad566c3,Machine,Caterpillar 793F,2017,30047.29,4
+0938ad77,Machine,John Deere 770AH,2006,34370.97,3
+ad0cabfc,Vehicle,MAZDA MAZDA5,2014,92049.2,5
+eed15368,Machine,Komatsu WA65-3,2007,71726.23,2
+ae5ceb3d,Vehicle,Jeep Liberty,2009,58937.57,2
+90de6fba,Vehicle,Tesla Model X,2018,82376.09,1
+d89331ac,Vehicle,Lincoln Continental,1997,68252.52,3
+2a9e9a38,Vehicle,Audi A6,2003,58711.87,4
+3567c813,Vehicle,Volkswagen Jetta,1996,76026.79,1
+26b18865,Vehicle,BMW M5,2001,82743.97,4
+3a0879fb,Vehicle,Ford Expedition MAX,2019,66041.47,1
+49adce95,Vehicle,Porsche 911,2006,6497.18,1
+0d326347,Vehicle,MAZDA CX-3,2017,67680.84,2
+052ba051,Vehicle,Plymouth Voyager,1999,61818.75,3
+385127f1,Vehicle,GMC Sierra 2500 HD Regular Cab,2000,37786.58,2
+a62f45c2,Vehicle,Ford F250 Super Duty Regular Cab,2017,95693.26,1
+e5b3a67b,Vehicle,Toyota Tundra Access Cab,2002,77608.05,1
+5edd9aae,Vehicle,GMC Canyon Extended Cab,2006,72531.73,1
+e1289e96,Vehicle,Lincoln MKC,2019,35199.07,2
+bd3ccd61,Vehicle,Volkswagen Touareg 2,2008,37543.88,1
+5c07d046,Vehicle,Mitsubishi i-MiEV,2016,48192.7,3
+bcccc53a,Vehicle,Ford Edge,2019,39986.32,1
+a51e0bde,Vehicle,MAZDA MX-5 Miata,1995,6727.85,4
+6f5714d7,Machine,Case 650M,2016,95076.56,1
+1a0408e7,Machine,New Holland TB120,2006,36181.38,1
+19a0f532,Vehicle,Nissan Quest,2000,62254.82,1
+fcb8f90c,Vehicle,Ferrari 599 GTB Fiorano,2007,54975.6,2
+6c10f97f,Vehicle,Mercury Grand Marquis,1997,76248.89,2
+8d943a55,Vehicle,Chevrolet Colorado Regular Cab,2009,36028.38,2
+ee9d0e10,Vehicle,Pontiac Vibe,2008,28992.04,2
+1d0820e0,Vehicle,Lexus ES,1994,40937.87,3
+490004e6,Vehicle,Subaru Legacy,2015,56401.7,3
+2c071e27,Vehicle,Kia Sorento,2011,48194.81,5
+b8c0ace8,Vehicle,Audi A8,2017,69002.67,1
+f281e24c,Vehicle,Toyota Tundra Double Cab,2016,62466.8,3
+0947bf82,Vehicle,Ford Aerostar Cargo,1992,29504.49,1
+d85d37fe,Vehicle,Honda Accord,2018,90676.39,1
+7b3402f4,Vehicle,Plymouth Voyager,1994,93046.23,4
+8410ebdf,Vehicle,BMW X4,2018,5336.92,2
+2b44d7a2,Machine,AMCO F15B-5822,2019,20091.98,5
+d1dda656,Vehicle,Ford F350 Regular Cab,1995,35228.97,2
+f45a6a87,Vehicle,Ford E250 Super Duty Cargo,2003,26209.28,3
+209ae9d1,Vehicle,Kia Rio,2014,41987.27,2
+3fc9f149,Machine,Tong Yang Moolsan T233HST,2001,99472.25,1
+7df8b7f0,Vehicle,Nissan Altima,2012,71395.73,4
+31dbd1d5,Vehicle,BMW 1 Series,2008,23947.0,1
+cccb4dfb,Vehicle,Alfa Romeo 4C,2015,97143.79,5
+3b342529,Vehicle,Oldsmobile Cutlass Ciera,1994,66400.24,2
+d0576ddf,Machine,John Deere 644K Z-Bar,2009,99131.64,2
+b5a99074,Vehicle,Ford F150 SuperCrew Cab,2011,24296.27,2
+c43097a8,Vehicle,Mercedes-Benz S-Class,1998,55056.86,1
+2a3ee0dd,Vehicle,Dodge Grand Caravan Passenger,2012,82347.93,3
+6cd88823,Vehicle,Honda Accord,2014,35988.54,4
+1f32140f,Vehicle,Toyota Prius Prime,2020,23351.78,3
+d4e3fd71,Vehicle,Jeep Liberty,2006,73078.36,4
+4f219ce3,Vehicle,MAZDA RX-8,2009,53836.85,4
+34403f39,Vehicle,Ford Taurus,2014,61878.77,1
+3cc312ae,Vehicle,Ford Econoline E250 Cargo,1999,24378.36,3
+0364180e,Vehicle,Ram 3500 Mega Cab,2019,77518.33,5
+ef93a4f7,Vehicle,Pontiac Grand Prix,1996,34687.76,3
+22ee475c,Vehicle,Lexus RX,2006,80675.14,2
+6b7d2713,Vehicle,Pontiac Bonneville,2001,98759.63,1
+6f88c633,Vehicle,Ford F250 Super Duty Regular Cab,2015,34793.27,1
+4a8bdc5c,Vehicle,Cadillac Escalade,2012,7954.36,4
+a6e880af,Vehicle,Lexus GS,2008,2349.88,3
+a556df18,Vehicle,Chevrolet Colorado Crew Cab,2006,99018.94,2
+7d1271b7,Vehicle,Volvo XC70,2011,90081.62,3
+47a1d7c7,Machine,Doosan S300LL,2002,8714.53,4
+743ad97e,Vehicle,BMW 5 Series,2009,21075.98,4
+934dafd1,Vehicle,Hyundai Sonata,2003,70012.82,1
+26371189,Vehicle,GMC Sierra 2500 HD Crew Cab,2005,36741.12,1
+5b7dff42,Vehicle,Buick LeSabre,1998,5268.9,1
+6993400e,Vehicle,MAZDA CX-9,2015,91151.45,1
+e6437b65,Vehicle,GMC Sierra 2500 Extended Cab,2003,95018.19,3
+b7bd77ce,Vehicle,Nissan GT-R,2009,20958.85,3
+2743fd04,Vehicle,Dodge Ram Wagon 3500,1999,52704.02,3
+ecbac14d,Vehicle,Mercedes-Benz Mercedes-AMG E-Class,2018,54800.84,5
+4dbd90c8,Machine,Chetra T20,2002,73641.59,1
+cd234509,Vehicle,Saab 3-Sep,2002,64893.9,3
+0aa57c75,Vehicle,Chevrolet Silverado 1500 Regular Cab,2013,36430.48,1
+2ea29ca2,Vehicle,Chevrolet Tahoe,2012,94979.23,1
+b51a5040,Vehicle,Audi Q7,2019,32957.52,5
+39f098da,Vehicle,Acura MDX,2005,16529.2,5
+9ace0187,Vehicle,Nissan Sentra,2014,64371.88,2
+074af7dc,Vehicle,Audi S4,2002,5372.69,2
+ebeb4a37,Vehicle,Volvo XC40,2020,17051.94,5
+2daa0123,Vehicle,Ford Focus ST,2013,99988.27,1
+36aba819,Vehicle,Nissan Murano,2006,71409.32,2
+ff05837a,Vehicle,Chevrolet Express 3500 Cargo,2002,8231.78,4
+861cd2f0,Vehicle,Lincoln Town Car,2004,54691.67,5
+bf5b52b1,Vehicle,Chrysler PT Cruiser,2006,86865.97,4
+1a44cf29,Vehicle,Dodge Ram 3500 Regular Cab,1998,41698.52,5
+c88ba627,Vehicle,Toyota Tacoma Access Cab,2005,76847.02,5
+d2ebae9d,Vehicle,Ford Fusion,2009,18512.88,5
+8861e46f,Vehicle,Mitsubishi Outlander PHEV,2019,43627.17,4
+addb5678,Vehicle,Mercedes-Benz SL-Class,2006,53780.01,2
+0acc9b0c,Vehicle,Volvo XC90,2004,35306.09,4
+c2959368,Vehicle,Suzuki Swift,1992,59951.61,5
+4f9d9bbb,Vehicle,Mercedes-Benz E-Class,1996,12007.31,5
+da9f4546,Vehicle,Tesla Model S,2019,2038.1,3
+795300f7,Vehicle,Porsche 928,1993,6311.64,4
+4c6aee62,Vehicle,Dodge Grand Caravan Cargo,2010,51172.72,4
+67b41f78,Vehicle,Buick LaCrosse,2014,46235.17,1
+15f66e23,Vehicle,Lexus RX,2002,56057.9,3
+84264520,Vehicle,Nissan Altima,2007,28171.23,1
+cdce73b5,Vehicle,Dodge Ram Van 3500,2001,23399.44,3
+0505a80b,Vehicle,MAZDA CX-9,2012,74496.42,4
+85573355,Vehicle,Toyota RAV4,2008,12942.13,2
+643b9776,Vehicle,Dodge Ram 3500 Regular Cab,2003,97555.77,4
+4aef728c,Vehicle,Nissan 370Z,2011,67887.28,5
+c7d791cb,Vehicle,MAZDA MAZDA6,2013,12197.71,3
+be35a534,Vehicle,MINI Hardtop,2012,9074.87,4
+13169396,Vehicle,Toyota Tundra Access Cab,2002,7611.09,2
+bc851c14,Vehicle,Volkswagen Cabrio,1996,10113.04,1
+677ea36d,Vehicle,Acura RLX,2014,62460.93,2
+b43d4820,Vehicle,Dodge Ram 2500 Quad Cab,1998,13330.18,4
+a5bad885,Vehicle,Chevrolet Avalanche 2500,2005,13759.29,3
+2e0be868,Vehicle,Lincoln Navigator,2002,3367.65,1
+7dd82bab,Vehicle,Lincoln Town Car,2010,26068.47,4
+e5c85b51,Vehicle,BMW 6 Series,2005,88879.05,5
+6fe63236,Vehicle,McLaren 650S,2015,25042.12,5
+3367a0a4,Vehicle,BMW M3,2006,84753.6,4
+f546e1d0,Vehicle,Acura RL,2011,9669.26,4
+5bf3e13c,Vehicle,Buick LeSabre,2004,31896.28,1
+931c8594,Machine,Hitachi EX200-3,2019,59201.65,5
+33fd21eb,Vehicle,Dodge Ram Wagon 3500,1996,92812.63,2
+8556eaef,Vehicle,Volvo C70,2007,63067.6,5
+3ad0c585,Vehicle,Audi S5,2015,70844.39,2
+95f45a1f,Vehicle,Audi A7,2019,16980.91,4
+ca657102,Vehicle,Ford F150 Super Cab,2017,86261.59,5
+5ca5b513,Vehicle,Chevrolet Silverado 1500 Regular Cab,2000,35493.18,3
+4834bb3a,Vehicle,Ford F150 Super Cab,2006,4475.79,5
+81e210ec,Vehicle,BMW X3,2013,71473.63,2
+87ea36aa,Vehicle,Buick Regal,1996,53658.29,4
+feb6a282,Machine,Volvo BM L180C,2003,5794.86,2
+2aecdf5e,Vehicle,smart fortwo,2011,26093.33,3
+172e1f60,Vehicle,HUMMER H3T,2010,9029.01,1
+30cceeb3,Machine,Hamm H13i VIO,2005,89458.12,3
+112a2174,Vehicle,Chevrolet Express 3500 Cargo,2014,19441.75,3
+bc39066b,Vehicle,Dodge Intrepid,1996,39402.44,4
+6acff518,Vehicle,GMC Savana 3500 Passenger,2017,89360.09,2
+f25e89ae,Vehicle,Jeep Grand Cherokee,2000,25649.82,2
+b6d4af46,Vehicle,Dodge Durango,2000,14792.9,3
+4a169a17,Vehicle,Chevrolet Colorado Extended Cab,2012,43701.07,3
+d71a4448,Vehicle,Toyota Previa,1996,75902.16,5
+29ec1824,Vehicle,Chrysler Town & Country,1999,90729.38,5
+cf5737e4,Machine,Bomag BW172PD-2,2007,69446.06,1
+d77bc9c9,Machine,New Holland TN75FA,2002,39911.72,4
+65cab758,Vehicle,Suzuki Esteem,2001,78424.73,1
+d383ef52,Vehicle,Volkswagen Golf,2011,90687.52,1
+5684a380,Vehicle,MINI Cooper,2007,33842.55,5
+65fdb2b9,Vehicle,Honda Accord Hybrid,2017,46407.17,2
+53265844,Vehicle,Dodge Stratus,2002,61192.82,4
+d3b8cf1d,Vehicle,Audi e-tron,2019,97397.41,2
+ba1c28c1,Vehicle,Toyota Yaris,2015,9422.7,4
+1f205c08,Vehicle,Lexus GX,2019,5669.63,4
+61020a09,Vehicle,Freightliner Sprinter 2500 Cargo,2015,64779.9,5
+74cead4a,Vehicle,MAZDA CX-5,2014,77496.51,5
+2e079578,Vehicle,Volkswagen New Beetle,1998,47581.61,5
+12d570a9,Vehicle,Dodge Durango,2003,77878.02,5
+bee9db39,Vehicle,Volvo 960,1997,4721.75,4
+49c7c9e8,Vehicle,Dodge Ram Van 3500,1998,11984.22,4
+b2ae050e,Vehicle,Audi Q7,2018,57420.59,1
+9c0130a7,Vehicle,Audi Cabriolet,1997,48830.96,4
+d44b5548,Vehicle,Mitsubishi Mighty Max Macro Cab,1992,48885.88,1
+f31a3875,Vehicle,Honda CR-V,2013,61545.51,3
+c322b4ff,Vehicle,Lexus RX,2004,94287.69,2
+3b5a4257,Vehicle,Ford Explorer,2009,55488.8,5
+3aed3ef1,Vehicle,Dodge Durango,2011,30080.55,3
+fb2d92c2,Vehicle,Volkswagen Eos,2007,73356.11,1
+7ef1748c,Vehicle,Audi A4,1997,42558.02,3
+b427f0e6,Vehicle,Chrysler 300M,2000,31579.02,4
+738a67ee,Vehicle,Ram ProMaster City,2017,72892.73,1
+d352f3bb,Vehicle,GMC Rally Wagon 1500,1992,94287.12,5
+a0c460ab,Vehicle,Toyota Land Cruiser,2013,59447.02,2
+a7f1866f,Vehicle,GMC Savana 2500 Passenger,2009,50104.68,3
+bfe50d00,Vehicle,INFINITI QX50,2017,14498.8,4
+718f9ac3,Vehicle,Chrysler Cirrus,1999,32343.96,4
+7482af7f,Vehicle,INFINITI M,2008,22569.39,5
+21f2f77d,Vehicle,Ram 1500 Crew Cab,2016,95463.12,1
+5f6543e4,Vehicle,Kia Borrego,2009,89719.14,5
+68e5f17a,Vehicle,Volkswagen Jetta,2002,21803.32,2
+53d6faeb,Vehicle,Lexus IS,2005,35192.06,2
+2bcdacf3,Vehicle,Volkswagen Jetta,1996,68528.57,1
+a022f3b7,Vehicle,Jeep Wrangler,2002,92222.15,2
+3263dd11,Vehicle,Toyota T100 Regular Cab,1996,84613.92,3
+582b943f,Vehicle,Chevrolet SSR,2006,68663.96,1
+a8efc7f9,Vehicle,Lincoln MKX,2014,58955.16,5
+722219dc,Vehicle,Volkswagen Golf SportWagen,2016,94236.49,2
+52825876,Vehicle,Nissan Quest,2017,47099.63,3
+b51f93db,Vehicle,Chevrolet Express 2500 Cargo,2015,68203.75,5
+22df2127,Vehicle,BMW X6,2014,86552.75,2
+ee24e998,Vehicle,Bentley Flying Spur,2018,71116.47,2
+52ce2c28,Vehicle,GMC Yukon XL 1500,2002,39658.17,1
+07546082,Vehicle,Cadillac Fleetwood,1995,55223.96,2
+f54608bd,Vehicle,INFINITI I,2003,92476.88,3
+ab95a44b,Vehicle,Toyota Sienna,2009,24453.14,3
+998b2f90,Vehicle,Ford Explorer,2003,71087.58,2
+1d1f9863,Vehicle,Mercedes-Benz CLS-Class,2016,66097.48,4
+2396c5f6,Vehicle,Hyundai Sonata Hybrid,2016,98658.99,5
+ae0b3964,Vehicle,Ford Taurus,1995,86014.84,4
+97f98b95,Vehicle,Ford Crown Victoria,2008,53157.12,5
+15c9ddc4,Vehicle,Mercury Villager,1994,17949.53,4
+be701c41,Vehicle,GMC Sierra 2500 HD Regular Cab,2000,17391.83,4
+9d9c857e,Vehicle,Chevrolet Lumina,1992,3698.07,4
+2a8bc6f6,Vehicle,GMC Sierra 2500 HD Regular Cab,2005,51798.44,4
+7ea5337b,Vehicle,Mercedes-Benz CLK-Class,2008,67884.77,1
+94db2613,Vehicle,Ram 3500 Regular Cab,2013,20575.78,4
+1ae775f3,Machine,Volvo MCT125C,2005,72189.86,5
+9b6d3474,Vehicle,Nissan Sentra,2002,38715.66,2
+d39cb220,Machine,New Holland L125,2018,1065.24,4
+3aec435b,Vehicle,Oldsmobile Aurora,2001,91875.96,4
+9e15f88a,Vehicle,GMC Savana 3500 Cargo,2007,42455.33,5
+b50a2a65,Vehicle,Kia K900,2016,66435.03,4
+39be3773,Vehicle,Mitsubishi Outlander,2019,59011.42,3
+8c770580,Vehicle,Volvo XC70,2008,22755.84,4
+4a17ad31,Machine,Kubota L5040GST,2018,87730.77,4
+36379ee5,Vehicle,Jaguar XJ,2000,98732.55,2
+6363b98d,Vehicle,Dodge Sprinter 2500 Passenger,2004,73783.62,3
+f3fcdd19,Vehicle,Audi S8,2014,26522.58,2
+0424b468,Vehicle,Dodge Grand Caravan Passenger,1997,73730.82,2
+77d566df,Vehicle,Audi RS 5,2018,18047.01,3
+ffb07b56,Machine,Case IH WD 1203 SERIES II,2008,50665.94,4
+fd5fce63,Vehicle,Toyota Prius,2016,62140.66,2
+62680f46,Vehicle,Mercedes-Benz Sprinter 3500 Cargo,2013,26085.97,5
+82dc31ce,Vehicle,Volkswagen Golf III,1993,61410.64,1
+9f2259f0,Vehicle,Oldsmobile Intrigue,2002,76000.78,2
+151fc97f,Vehicle,Hyundai Elantra,2000,82901.76,2
+d3cbf16f,Machine,Hitachi EX400LC-5,2017,18460.6,3
+8704b6b4,Vehicle,BMW 1 Series,2009,60919.81,3
+ffed71e5,Vehicle,Mercedes-Benz S-Class,1996,3308.04,5
+135bc2c0,Vehicle,GMC Savana 3500 Cargo,2002,72514.61,1
+be2e4d14,Vehicle,Toyota Avalon,2005,21814.55,4
+d2ed36fb,Vehicle,Cadillac Eldorado,1999,63258.85,4
+a36e430d,Vehicle,Geo Tracker,1995,72614.53,2
+2c6e3cd7,Vehicle,Chevrolet Colorado Crew Cab,2005,20261.85,1
+f8765eb8,Vehicle,Ford Aspire,1995,6003.55,4
+ae0f88a9,Vehicle,Ford F250 Super Cab,1998,41090.8,2
+fa7a0ed0,Vehicle,Mercury Villager,1999,32863.19,3
+e38efdec,Vehicle,GMC Yukon,2015,70784.45,2
+8555cc6f,Vehicle,Hyundai Elantra,2000,73187.98,2
+b68c0d7e,Vehicle,INFINITI FX,2006,31659.15,1
+53ef1128,Vehicle,Dodge Charger,2013,84941.26,2
+6724c1fd,Vehicle,BMW 4 Series,2015,83658.21,5
+95c2e674,Vehicle,Ford F350 Super Duty Regular Cab,2007,84672.07,4
+96a743de,Vehicle,Chevrolet 3500 HD Regular Cab,1995,81854.24,3
+ee9d71aa,Vehicle,GMC Sonoma Extended Cab,2001,79907.21,3
+0748f64a,Machine,Pel-Job EB150XT,2006,43986.55,3
+22a23be8,Vehicle,MAZDA CX-9,2012,24449.5,5
+7dcd07ad,Vehicle,Mitsubishi Diamante,1998,90238.56,3
+286318da,Vehicle,Nissan NV3500 HD Passenger,2013,27887.23,5
+499705a6,Vehicle,Honda Insight,2020,9320.71,1
+4aead65b,Vehicle,Audi A4 allroad,2018,60037.37,2
+ebdf3f8e,Vehicle,GMC Sierra (Classic) 3500 Extended Cab,2007,44923.02,5
+b6163a6e,Vehicle,Ford Econoline E150 Cargo,2002,99204.41,3
+ba40a0b4,Vehicle,Oldsmobile LSS,1999,75519.92,4
+a136a140,Vehicle,Volvo S60,2014,59137.89,2
+ac2a79d6,Machine,Caterpillar BG600D,2001,84523.26,1
+3ed0ffc1,Vehicle,Bentley Flying Spur,2016,88422.5,5
+5f46fe02,Vehicle,Mercedes-Benz CLS-Class,2008,10449.39,4
+8a187232,Vehicle,Rolls-Royce Dawn,2018,19672.51,4
+c899286f,Vehicle,Acura NSX,2017,48689.72,4
+38a839aa,Vehicle,Mercedes-Benz Sprinter 2500 Passenger,2018,35142.04,2
+28f2abf5,Vehicle,Acura TL,2008,47353.59,1
+6ea3f40e,Vehicle,Jeep Wrangler Unlimited,2020,61292.14,2
+4a6ad09e,Vehicle,Mercedes-Benz CL-Class,2014,8747.34,5
+94d9724b,Vehicle,smart fortwo,2015,90826.16,3
+2d62f758,Machine,Hamm HD PLUS 110 VT,2017,31841.52,4
+48d27a42,Vehicle,Chrysler Sebring,1998,2470.13,5
+9c53ccc5,Vehicle,Mercury Topaz,1993,35540.06,2
+6a7597a5,Vehicle,Audi SQ5,2017,22377.17,4
+db29c218,Vehicle,Porsche Boxster,2014,76826.96,5
+ac9ac64e,Vehicle,Alfa Romeo 164,1992,9676.69,3
+cd051ce5,Vehicle,Ford F150 Regular Cab,1992,41848.26,1
+980ce966,Vehicle,Ford GT,2005,82249.88,3
+9c57edc2,Vehicle,Acura ILX,2019,83892.4,5
+d94a5b7d,Vehicle,Audi TT,2018,40056.29,3
+8a447865,Vehicle,Chevrolet Express 1500 Passenger,2006,63378.7,5
+f4c33994,Vehicle,Porsche Panamera,2010,68088.86,4
+6550c7ab,Vehicle,Porsche Panamera,2013,58061.8,4
+7442d9eb,Vehicle,Geo Prizm,1995,23544.18,5
+35a9b337,Vehicle,Volkswagen Passat,2002,86284.0,1
+8ee87598,Vehicle,Scion xB,2009,49715.56,3
+7cc9a214,Vehicle,Chevrolet Corvette,2015,53958.31,3
+6cf98576,Machine,John Deere 320D,2007,87852.44,1
+d3fa47b8,Vehicle,Dodge Ram 2500 Regular Cab,2001,67735.75,3
+41b2123b,Vehicle,Mercury Grand Marquis,2008,73434.25,3
+f3a65b49,Vehicle,Rolls-Royce Phantom,2018,93461.2,4
+39374e65,Vehicle,Dodge Durango,2018,41656.46,1
+07edb957,Vehicle,Ram 1500 Quad Cab,2016,87020.68,2
+33ddc13a,Vehicle,Suzuki Swift,1992,96303.97,5
+0383178c,Vehicle,Audi A6,2012,97196.65,2
+9e3f9eb0,Vehicle,Toyota Tacoma Double Cab,2007,61035.67,2
+62f0a848,Machine,Caterpillar 336D/D L Series 2,2013,73884.73,4
+9ae42200,Machine,Flaman DK45SE HST,2000,26775.11,1
+0b9b6968,Vehicle,Audi allroad,2004,91074.85,4
+dfe880c0,Vehicle,Nissan Pathfinder,1992,54306.07,4
+3371b046,Vehicle,Ford C-MAX Energi,2015,6022.42,5
+dd21094e,Vehicle,Buick Regal,1999,2075.73,1
+6c752883,Vehicle,Pontiac Grand Prix,2007,57014.18,3
+b9bc2f79,Machine,Caterpillar BG260C,2000,82942.82,1
+d622353d,Vehicle,Chevrolet Malibu,2010,10723.16,1
+d70e4112,Vehicle,Chevrolet Tracker,2002,59887.8,1
+521d283f,Vehicle,Mercedes-Benz R-Class,2007,32946.47,1
+4ba28a39,Vehicle,Land Rover Range Rover,2006,83440.03,1
+291cd586,Vehicle,Honda Odyssey,1999,11906.83,1
+1dda7a0f,Vehicle,Oldsmobile 88,1996,30836.86,3
+1d0ebe5b,Vehicle,Buick Rendezvous,2007,11566.48,1
+7b637070,Vehicle,Jaguar S-Type,2005,28556.7,2
+93d2b5ea,Vehicle,Chevrolet Corvette,2005,18228.17,3
+7454895f,Vehicle,Honda Odyssey,2007,32603.33,3
+86f5f64f,Vehicle,BMW Alpina B7,2007,69765.82,4
+37c22ade,Vehicle,Lexus IS,2013,47056.13,4
+634d1325,Vehicle,Nissan Armada,2018,2038.6,4
+eb1e3e73,Vehicle,Chevrolet Astro Cargo,1995,24569.98,5
+07f38638,Vehicle,Ford F150 Regular Cab,1995,97185.29,2
+559672a5,Vehicle,Lexus GS,2009,18024.68,3
+5cb8734e,Vehicle,Audi A8,2010,39715.4,1
+682f9440,Machine,Bourgault 8810-35,2012,77747.2,3
+2d9030e3,Machine,Ezee-On 5540-60-16-10,2012,37160.42,4
+a11dd922,Vehicle,Mitsubishi Lancer,2016,32551.39,5
+560ca859,Vehicle,Chevrolet Avalanche 1500,2004,10642.86,2
+91858c39,Vehicle,Lamborghini Aventador,2017,38042.58,3
+1501a2e7,Vehicle,Volkswagen Fox,1993,81058.65,1
+7a156be5,Machine,Hyundai HL780XTD-7A,2014,60391.15,4
+bc1599c8,Vehicle,Kia Spectra,2003,23553.09,2
+4fb99d21,Machine,AMCO J-43 3224,2004,79078.23,3
+04f42d78,Vehicle,Isuzu Spacecab,1992,80387.9,2
+92a01650,Vehicle,Mitsubishi Galant,1998,36756.78,4
+6c156332,Vehicle,Porsche Boxster,2012,69582.14,4
+3e484ea8,Vehicle,Ford ZX2,2001,11270.86,3
+cfce5fa0,Vehicle,Chevrolet Express 1500 Passenger,2009,57902.76,3
+7de511cd,Vehicle,Mercedes-Benz C-Class,2004,11677.29,3
+9d6f40ae,Vehicle,Mercedes-Benz B-Class,2017,59666.75,3
+43891c73,Vehicle,Ford F450 Super Duty Crew Cab,2015,39260.86,3
+4ac5fe85,Vehicle,Ford Flex,2012,21912.58,5
+2db73775,Vehicle,Chrysler 300M,2004,85229.83,3
+aee9d547,Vehicle,Chevrolet Express 2500 Passenger,2016,24812.72,3
+e42deaa8,Vehicle,Land Rover Discovery Sport,2018,47299.57,5
+8e304130,Vehicle,Nissan Altima,2006,18293.03,3
+1046e73e,Vehicle,Ford Mustang,2005,68540.05,5
+c38b4a22,Vehicle,Mercedes-Benz 500 E,1992,32175.8,3
+0db06ba4,Vehicle,Hyundai Tiburon,2005,65709.75,1
+1a030d4e,Vehicle,Porsche Macan,2019,22013.06,5
+eceef8e2,Vehicle,Dodge Ram 50 Regular Cab,1993,24671.56,4
+677a31d9,Vehicle,Chrysler Town & Country,1995,53465.67,1
+3e0dfd28,Vehicle,Kia Rio,2003,16361.98,4
+e66e9245,Vehicle,Ford Taurus,2003,58716.52,4
+642eeb99,Vehicle,Chevrolet Blazer,2003,32904.4,3
+405cef06,Machine,Massey Ferguson 2625,2013,86453.41,5
+4d90f38e,Vehicle,Ford F350 Crew Cab,1995,81333.78,3
+d9852311,Vehicle,Audi A8,2003,5022.13,4
+e2e77b33,Vehicle,Lexus GS,2019,44737.72,3
+bfdabee0,Vehicle,Toyota Echo,2000,95922.03,2
+242b0ad5,Vehicle,Volkswagen Jetta SportWagen,2013,11636.55,1
+93b4f2a5,Vehicle,GMC Sierra 2500 HD Crew Cab,2013,4680.27,5
+62b4d7ff,Vehicle,Geo Metro,1995,33769.98,3
+8b2e00d9,Vehicle,Chevrolet Cavalier,1994,12250.19,1
+0dbed695,Vehicle,Chrysler 300M,2001,46485.7,1
+64f95283,Vehicle,Chrysler 300,2014,38806.09,2
+f27830c1,Machine,Massey Ferguson 543,2005,43147.86,3
+03d820d3,Machine,John Deere 324H,2012,44906.23,3
+dd5b343c,Vehicle,Lincoln Town Car,2001,44197.47,1
+e5a0d780,Vehicle,BMW X5 M,2018,97235.14,4
+944fb50c,Vehicle,BMW 8 Series,1997,38839.93,5
+46e164de,Vehicle,Oldsmobile Custom Cruiser,1992,5385.5,1
+a68bef2d,Vehicle,Chevrolet Tahoe,1997,82330.9,4
+d816a55f,Vehicle,Chevrolet Bolt EV,2020,52960.99,1
+a0fcf11f,Vehicle,Pontiac Solstice,2008,54284.43,4
+d477a329,Vehicle,Buick LeSabre,2001,46873.48,4
+1468014d,Vehicle,Pontiac LeMans,1993,21710.17,2
+0f2a4e48,Vehicle,Ford Explorer Sport,2001,77273.33,1
+e981d4db,Vehicle,Chevrolet Express 2500 Cargo,2019,18208.91,5
+2deb0ff0,Vehicle,Ram 1500 Crew Cab,2018,87604.95,5
+0cabd62a,Vehicle,FIAT 500,2016,56009.7,1
+03e27e5c,Vehicle,INFINITI QX70,2014,11976.69,4
+eb4be885,Vehicle,Hyundai Tiburon,2006,12093.81,1
+237d5e54,Vehicle,Jeep Renegade,2016,42909.71,3
+496460cc,Vehicle,Chevrolet Silverado 2500 Extended Cab,2004,92159.38,3
+305c03c2,Vehicle,GMC Sierra 1500 Crew Cab,2005,53856.67,1
+4ed51147,Vehicle,Dodge Dakota Crew Cab,2010,84169.46,1
+cb2c9d6f,Vehicle,Acura RL,2003,6792.15,3
+f1afc6b0,Vehicle,Nissan Titan Crew Cab,2012,96321.85,5
+e48b9fcb,Vehicle,Kia Forte Koup,2016,32244.87,4
+5d69d0a3,Vehicle,Toyota Corolla,2013,20141.25,3
+a6601bb6,Machine,Caterpillar 307E2,2015,78853.48,5
+22efafd5,Vehicle,Mitsubishi Endeavor,2005,32400.74,1
+df77c6dd,Vehicle,Chevrolet Express 3500 Passenger,2015,71527.92,3
+3c318ed8,Vehicle,Mercedes-Benz GLE,2020,34566.58,1
+01395165,Vehicle,Toyota Sequoia,2001,92117.91,2
+d9941dd1,Machine,Top Air TA 112 60ft,2017,2331.28,1
+cc1f757e,Vehicle,Toyota Camry,1995,4126.94,2
+40b3aee3,Vehicle,Subaru BRZ,2020,51026.54,1
+960ff0b3,Vehicle,Chevrolet Astro Passenger,1999,34463.61,5
+242ace5c,Vehicle,Honda Clarity Electric,2019,53958.69,2
+e62e1adf,Vehicle,Aston Martin Vantage,2007,53820.48,2
+c6ffc6b1,Vehicle,Dodge Ram 2500 Regular Cab,1997,88592.71,3
+efb18925,Vehicle,Suzuki Forenza,2004,86230.28,4
+1997437e,Vehicle,Volkswagen Routan,2010,93566.45,4
+0a6eec58,Vehicle,GMC Suburban 1500,1992,69891.79,4
+2ef22a34,Vehicle,Mercedes-Benz CLA-Class,2014,24799.44,5
+98533ef4,Vehicle,BMW 6 Series,2007,35659.26,4
+7aa86593,Vehicle,Genesis G80,2018,33010.75,3
+207ee8c2,Vehicle,Cadillac Escalade ESV,2007,62737.98,3
+880ea282,Vehicle,Audi A4,2015,55374.7,3
+3b96d2e0,Vehicle,INFINITI I,2002,25779.34,3
+b9192c8f,Vehicle,Nissan LEAF,2012,94212.92,2
+432faf66,Vehicle,Chevrolet Silverado 1500 Extended Cab,2003,86805.37,4
+fad841cd,Vehicle,BMW 2 Series,2016,76955.12,3
+8ec4373c,Vehicle,BMW 8 Series,1994,97959.05,2
+7157488d,Machine,Daedong DK902,2018,42089.7,3
+16f612d9,Vehicle,Saab 900,1995,28110.61,1
+8620bb42,Vehicle,Toyota Prius,2014,46560.82,1
+52f94638,Vehicle,Lincoln Continental,1993,72192.1,1
+f87f29e8,Machine,New Holland LB110.B,2015,76581.45,3
+bb1bbc40,Machine,John Deere 644H MH,2002,88221.08,2
+b13afbc1,Vehicle,Ferrari 599 GTO,2011,68401.39,1
+6c1c7ced,Vehicle,Ford F250 Super Duty Crew Cab,2019,16961.85,2
+6406a391,Vehicle,Maserati Ghibli,2015,93729.94,4
+1572487a,Machine,Komatsu HB335LC-1,2005,24620.12,5
+86706f2a,Vehicle,Ford F350 Super Duty Crew Cab,2018,43409.51,2
+5495c539,Vehicle,GMC Canyon Extended Cab,2012,2949.89,4
+563f3b8a,Vehicle,Mercedes-Benz SL-Class,2000,50867.03,3
+7684fd05,Machine,Miller 4240,2006,79151.35,5
+e8871a6c,Vehicle,Pontiac GTO,2005,60190.09,1
+c6d27910,Vehicle,Ferrari F12berlinetta,2015,80884.7,5
+c564bbd1,Vehicle,Ford Mustang,2018,86704.98,2
+982f6fc6,Vehicle,Ford F250 Super Duty Regular Cab,2001,54911.08,1
+f4a470e9,Vehicle,Pontiac Grand Prix,1997,81495.33,1
+88253dd2,Vehicle,Ford Mustang,1993,78784.08,5
+ff01698d,Vehicle,Toyota Tacoma Double Cab,2017,2514.05,1
+cc05f227,Vehicle,Land Rover Range Rover Sport,2018,99983.3,3
+540d792a,Vehicle,Dodge Caravan Passenger,2006,17896.1,2
+1c968f5a,Vehicle,Audi Q5,2018,61621.31,4
+1f7f14d0,Vehicle,smart fortwo,2009,27117.46,3
+7aee31d1,Vehicle,Jeep Liberty,2007,33898.35,3
+5a78ca20,Vehicle,Land Rover Range Rover,2002,21830.31,5
+4b390e2d,Vehicle,INFINITI G,2011,61784.89,3
+ab4e0bb6,Vehicle,Mitsubishi Outlander Sport,2018,31643.22,5
+d982524d,Machine,Case IH JX80,2015,68123.39,3
+3b99e8f1,Vehicle,Nissan Pathfinder,2004,46665.2,4
+e9ec2c38,Vehicle,Dodge Ram Van 2500,1999,12218.42,5
+8bc3abe1,Vehicle,Hyundai Accent,2007,50826.51,1
+f39c010c,Vehicle,Toyota Highlander,2009,9340.29,1
+0c88515a,Machine,Caterpillar 769B,2015,23549.91,5
+a7c29a9e,Vehicle,Nissan Altima,2008,92241.05,2
+eaac4b0e,Vehicle,Mercury Grand Marquis,2001,39527.62,2
+220adeaf,Vehicle,FIAT 500X,2018,41840.8,5
+a441cdb1,Vehicle,Suzuki Kizashi,2012,69665.59,2
+6b37dcc0,Vehicle,Ford Explorer Sport,2003,32093.0,4
+c5d326e9,Vehicle,Buick Skylark,1994,25582.49,5
+2a4a7439,Machine,Vermeer 505M Classic,2015,77082.6,3
+7e0daee0,Vehicle,Nissan 200SX,1996,67128.81,5
+179ac555,Vehicle,Saturn S-Series,1999,50062.97,4
+d15c754f,Vehicle,Nissan Frontier King Cab,2018,46510.65,5
+358762c0,Vehicle,Aston Martin DBS,2012,20502.27,1
+2317ae3d,Vehicle,GMC Canyon Regular Cab,2004,80473.78,2
+75652f8d,Vehicle,Dodge Magnum,2006,48244.77,2
+af06b4d6,Vehicle,GMC Canyon Regular Cab,2007,59532.81,3
+39767359,Vehicle,Chevrolet S10 Extended Cab,1993,22262.18,2
+fec052b0,Vehicle,Volkswagen Passat (New),2001,33772.0,2
+22fb0d70,Vehicle,Ford Edge,2017,95616.11,2
+0b1a6e7d,Vehicle,Ford F250 Super Duty Regular Cab,2019,28229.49,4
+cf8fe681,Vehicle,INFINITI I,2003,13135.57,3
+77e0306b,Vehicle,Mercury Mariner,2005,29169.43,4
+8a653c41,Vehicle,Nissan Rogue Select,2014,50296.71,5
+849fb0ca,Vehicle,Honda Civic,2015,26726.03,4
+9219c17a,Vehicle,Chevrolet Express 3500 Passenger,2015,66396.51,2
+b5f56843,Vehicle,Cadillac DeVille,1995,23095.51,2
+114251c8,Machine,YTO WY10R,2008,89331.91,2
+7546a07a,Vehicle,Ford Expedition,2004,74387.53,3
+c9da4db2,Vehicle,Jaguar XK,2002,54542.14,2
+9687bd14,Vehicle,Nissan Frontier Crew Cab,2018,33759.63,1
+5ec47dac,Vehicle,Mercedes-Benz E-Class,2009,87246.22,5
+40e8c52f,Vehicle,Nissan Titan King Cab,2019,30402.49,1
+b4264fbc,Vehicle,Jeep Wrangler,1994,42528.86,4
+496379ac,Vehicle,BMW X4,2018,32432.97,5
+76831ff5,Vehicle,BMW M,2000,97715.64,2
+4a2a0c4b,Vehicle,Chevrolet G-Series 2500,1996,38990.09,4
+e77a9ba3,Vehicle,GMC Sonoma Club Cab,1992,8992.7,3
+4c9d61d7,Vehicle,Jeep Liberty,2008,79403.49,1
+c9f26c11,Vehicle,Chevrolet Silverado 1500 Regular Cab,2004,73487.51,3
+6fcecbe1,Vehicle,Cadillac STS,2005,34076.37,3
+7be9af35,Vehicle,Nissan Quest,2002,58891.53,2
+e619cbbc,Vehicle,Volkswagen Golf,2016,94968.97,4
+a738dfca,Vehicle,Cadillac Seville,1997,22419.11,3
+d951b1b0,Vehicle,Freightliner Sprinter 3500 Cargo,2015,40931.02,1
+dfa8e5d4,Machine,Kioti DK35SE HST,2004,18302.22,2
+6d9a7caa,Vehicle,Chevrolet Express 3500 Cargo,2002,34545.56,1
+aae026e2,Vehicle,Land Rover Range Rover Sport,2006,18712.17,1
+cba9b8ad,Vehicle,GMC Savana 2500 Passenger,2015,59583.56,4
+df5e8676,Vehicle,Mitsubishi Lancer,2005,70121.48,4
+2bd42f19,Vehicle,Saturn Outlook,2007,57200.54,3
+38241da0,Vehicle,Lexus LX,2003,17770.78,3
+e78f291b,Vehicle,Chevrolet S10 Crew Cab,2003,29571.27,1
+7508a502,Vehicle,McLaren 570S,2016,3199.81,4
+4fcc0100,Vehicle,Cadillac CTS-V,2016,56781.48,2
+1390554e,Vehicle,Toyota Yaris,2018,58100.35,3
+d830dce4,Vehicle,BMW 8 Series,1997,43317.12,1
+c60122e2,Vehicle,Honda Odyssey,2012,23939.76,3
+91733243,Vehicle,Jeep Patriot,2012,50939.03,4
+655ad319,Machine,John Deere 314G _ Skid Steer _JD,2011,61635.59,3
+605bf0e6,Vehicle,Ford F250 Super Duty Super Cab,2002,41329.8,4
+42880d61,Vehicle,Cadillac Escalade,2007,82893.75,3
+8c117a51,Vehicle,GMC Savana 2500 Cargo,2007,44234.77,1
+1d9268f7,Machine,Hitachi ZX180LCN-3,2003,23084.77,5
+67077e8f,Vehicle,Porsche Cayenne,2004,25748.01,1
+e0d661df,Machine,Caterpillar 416B,2010,71591.36,4
+6e4ed4ce,Vehicle,Nissan Quest,2015,41086.28,3
+5e317eb4,Vehicle,Cadillac CTS,2006,66798.11,5
+84ccaf98,Vehicle,Porsche Boxster,1998,52931.02,2
+0b4c6161,Vehicle,Lexus ES,2015,7139.16,2
+c515451d,Vehicle,Toyota RAV4,2007,48881.01,1
+69a618cc,Vehicle,Audi SQ5,2020,9180.04,4
+a3183ff0,Vehicle,Chevrolet Silverado 1500 Double Cab,2017,48971.96,1
+3fe5b348,Vehicle,Volkswagen Golf,2011,31577.3,5
+43cebb10,Vehicle,Jaguar XJ,1997,60139.46,1
+5d7ddc30,Vehicle,Maserati Levante,2018,75252.14,5
+0f8f4281,Vehicle,GMC Sierra 3500 Regular Cab,2006,64862.59,3
+74506bf3,Vehicle,Nissan TITAN Single Cab,2019,40924.75,1
+0ff3aeab,Vehicle,Audi S5,2012,91589.27,1
+ad2e1e85,Vehicle,Mercury Montego,2005,84019.07,2
+7f38e945,Vehicle,Land Rover LR2,2012,5681.77,3
+941413b1,Machine,John Deere 1010D Four-Wheel Long Frame,2002,88449.53,3
+80f4d59f,Vehicle,Cadillac ATS-V,2019,51763.67,3
+77673ef2,Vehicle,Saab 3-Sep,2010,97404.93,4
+7eefc340,Vehicle,Chevrolet Silverado 3500 Crew Cab,2006,33721.1,4
+62b69195,Vehicle,Ford F250 Super Duty Regular Cab,2016,60179.89,4
+c49546b0,Vehicle,Subaru Impreza,2009,86833.84,1
+57377910,Vehicle,GMC Envoy,1999,68999.26,4
+5b5e8052,Vehicle,Ford Transit Connect Cargo,2012,94549.76,5
+8ee9e51b,Vehicle,Cadillac CTS,2008,77852.54,2
+8c3bc1fc,Vehicle,Plymouth Neon,1999,78282.68,5
+a565e350,Vehicle,Toyota Sequoia,2011,40806.55,2
+9f0a3e6f,Vehicle,MINI Hardtop 4 Door,2019,79609.76,5
+8ef6d3ab,Vehicle,GMC Canyon Crew Cab,2018,37626.24,3
+17c3cc67,Vehicle,Toyota Tundra Regular Cab,2015,33556.87,1
+45e8ae33,Vehicle,Chrysler 300,2009,36406.91,2
+9ebbbdd1,Vehicle,Toyota Camry,1994,46017.06,4
+97078c0e,Vehicle,Nissan Armada,2019,21809.83,1
+68bf3a4e,Vehicle,Honda Prelude,1999,77768.41,1
+90233d33,Vehicle,Ford Explorer Sport Trac,2002,32717.57,5
+83e94e8f,Vehicle,Chevrolet Colorado Extended Cab,2006,39222.23,1
+ed7773ae,Vehicle,GMC Sonoma Regular Cab,1992,52056.0,5
+3189d2d2,Vehicle,Jaguar S-Type,2002,47513.22,2
+a2c2bbcb,Vehicle,Saab 9-7X,2008,50538.15,1
+646749bc,Vehicle,BMW 6 Series,2009,48324.33,5
+e1ef19e7,Vehicle,Ford Expedition,2004,2301.61,3
+fa736ef8,Vehicle,Dodge Sprinter 2500 Passenger,2004,80867.2,5
+9dfe5cf8,Vehicle,Chevrolet Silverado 1500 Regular Cab,2003,34019.31,3
+f7a9b68e,Vehicle,Jeep Wrangler,2017,65520.98,3
+35cd9cde,Vehicle,Dodge Caravan Cargo,1995,76810.67,2
+dee994ea,Machine,Kubota L3560DTRC,2007,79857.65,5
+9eed9ee9,Vehicle,Ford E250 Super Duty Cargo,2003,46820.07,1
+aadc10ae,Vehicle,Porsche Boxster,2003,90700.31,1
+891d5380,Vehicle,Dodge Caravan Passenger,1999,29784.29,5
+bc089ce4,Vehicle,Honda Civic,2012,1700.2,2
+6c89a683,Machine,Morris Maxim II 49\',2012,84969.94,2
+a4416c44,Vehicle,BMW 7 Series,2011,49561.96,3
+e00e089f,Vehicle,Mercedes-Benz GL-Class,2015,15834.51,3
+d52d096e,Vehicle,Audi RS 3,2018,26430.72,3
+fa709026,Machine,John Deere 992E,2019,52701.62,4
+56cca1c9,Vehicle,BMW Z8,2001,30066.56,4
+ba08d2f3,Vehicle,Toyota Prius Plug-in Hybrid,2015,25884.34,2
+66e975a9,Machine,Case IH TIGER-MATE 200 DOUBLE FOLD,2007,96450.03,4
+6b97bf45,Vehicle,Bentley Mulsanne,2018,93987.8,5
+685af6d5,Vehicle,Cadillac Seville,1995,41800.06,2
+f7931ca6,Vehicle,Mercedes-Benz Metris WORKER Cargo,2017,1226.9,3
+ae59b2d4,Vehicle,Nissan NV1500 Cargo,2019,62349.52,2
+cce5d70f,Vehicle,GMC Savana 2500 Cargo,1996,71932.13,3
+376408bf,Machine,Krause 5630-32 32.6ft,2009,36529.55,1
+35e77b88,Vehicle,Nissan Frontier King Cab,2015,41908.49,1
+78aff629,Vehicle,Jaguar XK,2010,36163.79,5
+9d886ada,Vehicle,Maserati Quattroporte,2014,69597.47,1
+b53bcc00,Vehicle,Audi A4 allroad,2018,21249.73,5
+4f5991c2,Vehicle,Hyundai Sonata,2013,49088.24,2
+f143c9ee,Vehicle,Ford F250 Super Duty Regular Cab,2006,78592.81,4
+4c9faea4,Vehicle,Nissan Maxima,2002,55630.89,5
+0e2dab26,Vehicle,Nissan TITAN XD King Cab,2017,35639.73,1
+8a161615,Machine,Fendt 311 Vario,2014,43655.46,3
+0cfc3ac7,Vehicle,Mitsubishi Outlander,2015,61597.87,2
+0c10d7ed,Vehicle,BMW M5,1993,47697.32,1
+5c389bed,Vehicle,Nissan Armada,2015,86903.23,5
+91e79d47,Vehicle,Ford Mustang,2017,49815.56,5
+c89a45ed,Vehicle,Hyundai Veloster,2020,37172.48,1
+4f9b196d,Vehicle,Dodge Ram Wagon B150,1993,79764.87,2
+70ba6a17,Vehicle,Chevrolet Beretta,1995,15307.68,2
+3e86901b,Vehicle,Nissan 200SX,1997,26027.62,4
+80faf61e,Machine,Kubota M5-091HDRC,2017,38641.83,4
+2e51785a,Vehicle,Chevrolet Volt,2018,7777.93,1
+1a696472,Machine,Bobcat S770,2014,36827.4,2
+e5f55011,Vehicle,Mercedes-Benz Sprinter 3500 Cargo,2012,79176.21,3
+7583057c,Vehicle,Volvo C70,1998,64130.46,2
+a628d531,Machine,HBXG TY120A,2015,89164.51,4
+9ee1e352,Vehicle,Nissan Pathfinder,2008,95047.98,3
+37b702ab,Vehicle,Ford Expedition,2004,45656.89,4
+1e0f2747,Machine,Kubota L39,2017,53321.78,1
+bccff5d5,Vehicle,Nissan 350Z,2009,43537.35,4
+9f577d25,Vehicle,BMW X5,2001,26116.7,1
+8bc065ca,Vehicle,Toyota Yaris,2010,37275.62,1
+e82c8a1f,Vehicle,Ford E150 Cargo,2008,42470.16,1
+f1330749,Vehicle,Toyota Tacoma Regular Cab,2005,95572.39,5
+bc79081d,Vehicle,Nissan Frontier King Cab,2009,21859.01,5
+8b792b87,Vehicle,Audi RS 4,2007,91512.34,3
+61fedf17,Vehicle,Ford Flex,2019,68239.89,3
+431fca8d,Vehicle,Jaguar XF,2016,24458.04,5
+b46be694,Vehicle,INFINITI EX,2010,17804.47,5
+e9ff9913,Vehicle,GMC Savana 3500 Passenger,1998,69686.6,1
+dd5c4055,Vehicle,Volkswagen Passat,2008,99411.48,1
+0f65ab7f,Vehicle,Nissan Frontier King Cab,2004,92697.69,2
+69182cbe,Vehicle,Buick Regal,1995,84576.09,4
+2b14c61a,Vehicle,FIAT 500X,2017,85605.52,4
+3dde6bfa,Vehicle,Honda Civic,1999,2247.5,1
+7f8c9725,Vehicle,Ford Mustang,2003,19605.6,1
+b7aa684b,Vehicle,Genesis G80,2017,45147.77,3
+586401c6,Vehicle,Ford Ranger Super Cab,2002,41542.09,2
+0dbe3d02,Vehicle,Audi A8,2000,29608.73,1
+25b91c20,Vehicle,Toyota 4Runner,2017,57711.28,4
+5b875437,Vehicle,Plymouth Grand Voyager,1998,42205.18,3
+4ec6249d,Vehicle,Lexus GS,2015,74657.67,4
+b0e4571d,Vehicle,BMW 7 Series,2006,91224.53,3
+04fd5c93,Vehicle,Volvo C70,2010,82163.25,1
+699e18c1,Vehicle,Volkswagen Passat,2010,74481.82,3
+f8714fae,Vehicle,Dodge Durango,2004,32932.01,5
+cf75fc50,Machine,Claas Rollant 354 RC,2004,14401.86,3
+d1baff54,Vehicle,Dodge Grand Caravan Passenger,1994,76115.45,3
+9dc5ad71,Machine,Hitachi EX 165,2004,78989.69,3
+16feec6d,Vehicle,Hyundai Tucson Fuel Cell,2017,31421.87,3
+b1119d8a,Vehicle,Pontiac Grand Prix,2000,36423.44,5
+d2fbb46d,Vehicle,Honda CR-V,2001,89860.93,4
+94c30bf9,Vehicle,BMW X3,2013,39675.78,2
+d4651ad7,Vehicle,Hyundai Elantra,2001,2866.18,1
+37b8da49,Vehicle,Saab 3-Sep,2011,90714.2,4
+d13f7905,Vehicle,Lexus ES,2017,27086.93,1
+70bd43f8,Vehicle,Mercedes-Benz M-Class,2000,9594.55,3
+369a6b12,Vehicle,BMW M5,2019,16385.15,1
+d7e4ab6a,Vehicle,Dodge Intrepid,1994,6668.36,3
+ae415aba,Vehicle,Mercedes-Benz 300 CE,1992,7570.74,4
+7770ea30,Vehicle,Nissan Pathfinder,2002,62976.74,2
+703f5fd2,Vehicle,Volkswagen Passat,2020,21496.73,5
+85033379,Vehicle,Ford Taurus,2002,44809.87,4
+43796957,Vehicle,Dodge Sprinter 3500 Cargo,2003,69781.15,4
+3b574cf3,Machine,John Deere 862B Series II,2018,5204.22,5
+11d3b8bb,Vehicle,Dodge Ram 2500 Quad Cab,2002,60666.72,4
+2875bd87,Vehicle,Ford F150 Super Cab,2006,18560.79,3
+6ded9bad,Vehicle,BMW 5 Series,2010,58629.96,2
+d8080ec8,Vehicle,Ford Taurus,2001,89028.39,5
+12b9e471,Vehicle,Dodge Ram 1500 Quad Cab,2008,28636.04,5
+62cc52aa,Vehicle,Eagle Summit,1994,8106.22,4
+ab58273d,Vehicle,Ford F150 Regular Cab,1992,71593.36,5
+6d3313b6,Vehicle,Toyota Prius,2017,57566.92,3
+9a87e242,Vehicle,Ford F250 Super Duty Super Cab,2007,6945.81,2
+1a6fa539,Vehicle,GMC 1500 Club Coupe,1996,7062.45,4
+0b9d573f,Vehicle,Lexus ES,1994,77808.34,4
+ac62013a,Vehicle,Tesla Model S,2018,80822.42,2
+c5f6b075,Vehicle,Ford F150 Regular Cab,1992,90566.04,1
+4fccd7d3,Vehicle,Audi A8,2003,19825.45,3
+d88ada5e,Vehicle,Lexus IS F,2011,50919.92,1
+81abc791,Vehicle,FIAT 500L,2017,77558.98,4
+528fa851,Vehicle,Kia Sedona,2003,66111.54,4
+e1dae76e,Vehicle,Chevrolet Silverado 3500 HD Extended Cab,2007,97057.72,2
+d5a13475,Vehicle,Ford Expedition,2013,10645.67,2
+dcb5e439,Vehicle,Toyota Land Cruiser,2008,53164.11,3
+e12ad0a4,Vehicle,GMC Safari Cargo,2004,7821.59,4
+7b173fda,Vehicle,Lexus LS,1996,31127.31,1
+183de9a6,Vehicle,Ford F250 Super Duty Super Cab,2012,83800.3,1
+0c3b177a,Vehicle,Saturn Relay,2006,2037.91,2
+10d040c1,Vehicle,Hyundai Santa Fe,2019,36952.68,1
+f0e822e4,Machine,New Holland L125,2018,83957.86,2
+4eb69d4d,Vehicle,Lincoln Town Car,2007,86033.44,4
+807d503f,Vehicle,Chevrolet 2500 Regular Cab,1997,96167.64,4
+42ed0708,Vehicle,Chevrolet Silverado 3500 Extended Cab,2001,68850.75,2
+f04b2ca2,Vehicle,Audi S7,2017,59185.06,3
+29d13f12,Vehicle,Pontiac Grand Am,2004,41158.32,3
+c1f5b90d,Machine,Caterpillar CP56,2003,81050.91,5
+47aef53a,Vehicle,Hyundai Accent,2006,48556.23,1
+af8560be,Vehicle,Dodge Viper,2006,98589.38,1
+d47f6f8e,Vehicle,Toyota Regular Cab,1993,81199.56,2
+e440e465,Vehicle,Chevrolet Colorado Crew Cab,2004,46617.81,5
+701e2db3,Vehicle,Volkswagen Passat,1994,78420.41,4
+60d03897,Vehicle,Nissan Rogue,2016,57596.03,4
+1b7a2894,Vehicle,Lincoln Navigator L,2013,46338.74,4
+fb8cb917,Vehicle,Buick Regal Sportback,2019,73289.82,2
+e240a071,Vehicle,Mercedes-Benz E-Class,2017,90828.71,5
+8a3e7861,Vehicle,Buick Rainier,2006,62711.4,4
+7a6403e7,Vehicle,Ford Expedition,2003,93519.48,2
+8308401b,Vehicle,Mercury Sable,2002,35397.0,4
+d786edc5,Vehicle,Nissan LEAF,2019,61439.16,1
+63819432,Vehicle,Chevrolet Express 2500 Cargo,2001,28314.79,1
+598f0835,Machine,Dynapac SD1800W,2002,8012.78,5
+9190a321,Vehicle,GMC Sierra 3500 HD Extended Cab,2010,29331.74,1
+e015b76f,Vehicle,Ford C-MAX Hybrid,2017,99178.32,5
+e12a666d,Vehicle,Pontiac Sunfire,1999,68178.98,2
+2d69c94d,Vehicle,Ford Ranger Regular Cab,1992,42308.86,3
+a4b75b0a,Vehicle,Chrysler Town & Country,2016,46073.05,1
+9b323e03,Vehicle,Freightliner Sprinter 2500 Crew,2015,39273.28,2
+6333706d,Vehicle,Volvo S60,2014,49174.05,5
+967044f9,Vehicle,GMC Yukon XL 2500,2007,4615.54,1
+259d34eb,Vehicle,Volkswagen Tiguan,2009,81444.88,4
+06f3fa4d,Vehicle,Chevrolet Astro Passenger,2003,37763.16,1
+9a52545a,Vehicle,smart fortwo,2015,66558.6,4
+40fec2e9,Vehicle,Ford F450 Super Duty Crew Cab,2017,63066.64,4
+b2520178,Vehicle,Nissan TITAN XD King Cab,2019,44629.39,2
+5ca50059,Vehicle,Maserati Levante,2017,4498.04,4
+18f7164f,Machine,Caterpillar 789C,2012,86080.9,5
+43396a6c,Vehicle,Chevrolet Suburban 2500,1998,36451.91,2
+3e185174,Vehicle,Dodge Dynasty,1993,73019.65,2
+39f0e5ac,Machine,New Holland T8040,2012,76815.84,3
+cb4ecd35,Vehicle,INFINITI Q,2001,17985.48,2
+5d41602a,Vehicle,Ford Escape,2020,57189.42,2
+a12530c9,Vehicle,Land Rover LR2,2015,1354.71,3
+1724ea1e,Vehicle,Ford Ranger Super Cab,1993,36072.23,5
+094caf18,Vehicle,Porsche 718 Cayman,2019,29427.28,4
+318138f4,Vehicle,Subaru Outback,2016,75199.83,4
+3c6c74b7,Vehicle,Toyota RAV4,2011,50873.06,2
+603bd927,Vehicle,Acura RDX,2016,22538.56,4
+2bba72fa,Vehicle,Aston Martin Rapide S,2016,46424.55,3
+9bd1dbcf,Vehicle,Scion tC,2008,75624.41,2
+708fac4d,Vehicle,Toyota Tundra Access Cab,2006,26654.98,1
+594cea90,Vehicle,Ford Ranger Super Cab,2006,29021.23,4
+dfed10b0,Vehicle,GMC Savana 2500 Passenger,2002,24084.07,2
+4e3ed309,Vehicle,GMC Acadia,2017,89960.05,2
+5f2c5e6a,Vehicle,Porsche Cayenne,2015,29057.96,1
+9775ab5f,Vehicle,Buick Verano,2013,23610.72,1
+3d4a935f,Vehicle,Isuzu Rodeo,2004,35629.81,5
+7805d457,Vehicle,MINI Clubman,2011,74279.51,5
+1c4bd140,Vehicle,Chevrolet 3500 Regular Cab,1998,15513.69,4
+6dd4b3aa,Vehicle,MAZDA MX-6,1994,33486.3,4
+764cd73d,Vehicle,Mitsubishi Outlander Sport,2020,56839.11,3
+36bf70fa,Vehicle,Volvo S80,2010,41660.02,2
+767f4746,Machine,John Deere 648G Series II,2017,61116.6,2
+8743507a,Vehicle,Ford F350 Super Duty Super Cab,2014,36670.54,2
+91abafef,Vehicle,Toyota Sequoia,2007,15153.78,1
+f1e7d144,Vehicle,Audi R8,2012,13380.46,5
+7b0f21b2,Vehicle,Lexus LS,2014,14202.32,2
+952ebb3f,Vehicle,Dodge Ram 2500 Quad Cab,1999,10144.47,1
+b697dcae,Vehicle,Maserati Quattroporte,2010,13020.66,5
+d586f60a,Vehicle,INFINITI Q,2004,60420.17,4
+1178de8f,Vehicle,Nissan NV2500 HD Cargo,2018,43494.31,5
+b547d210,Vehicle,Suzuki Equator Crew Cab,2011,9862.23,3
+9f2df366,Vehicle,GMC Canyon Regular Cab,2007,62258.47,2
+a5a166ef,Vehicle,Oldsmobile 88,1994,38017.87,1
+132f7769,Vehicle,Chevrolet Silverado 2500 HD Regular Cab,2017,92971.07,1
+6de2e202,Machine,Versatile SX240,2011,17118.49,3
+d263d98a,Vehicle,Mercury Sable,1992,3455.35,5
+9900bbbf,Vehicle,BMW i3,2019,3431.51,5
+603671ca,Vehicle,Ford F350 Regular Cab,1995,79325.16,4
+237a3e7d,Vehicle,Acura SLX,1996,71505.49,3
+42baf1dd,Vehicle,Toyota Tacoma Regular Cab,2006,8958.3,4
+d50902b8,Vehicle,Lexus GX,2014,2545.14,2
+f0aad6ff,Vehicle,Chevrolet Tahoe,1999,87782.85,1
+fbd87c0b,Machine,Salford CSX7080,2004,24727.89,4
+20554e0a,Vehicle,Pontiac LeMans,1992,64768.8,5
+9330aaaa,Vehicle,Hyundai Excel,1993,7932.44,5
+8a5afd65,Vehicle,Honda Odyssey,2017,3941.06,5
+7d48d102,Vehicle,Subaru Forester,2016,67869.18,1
+b6327736,Vehicle,Isuzu Rodeo,1992,15399.26,2
+5e6aded7,Vehicle,Freightliner Sprinter 2500 Passenger,2013,99437.26,1
+0d9bb6f7,Vehicle,Volvo 940,1995,79432.77,4
+8a3e626c,Vehicle,Chevrolet Corvette,2013,99227.91,3
+cd48135d,Vehicle,Pontiac G5,2009,20011.47,5
+13549e2b,Machine,Case IH STEIGER 370 WHEELED,2005,39080.35,4
+323f0fcb,Vehicle,Buick Regal,2003,31123.76,5
+56889585,Vehicle,Lincoln Navigator L,2013,97338.95,3
+35839f53,Vehicle,Volkswagen Passat,2007,29960.72,5
+4abb6131,Vehicle,Mercury Villager,2001,6683.3,3
+3e7f87d1,Vehicle,Chrysler 300,2017,38041.5,1
+9ec64c04,Vehicle,Hyundai Sonata Hybrid,2016,90579.37,2
+210885d0,Vehicle,Hyundai Elantra GT,2019,83098.18,1
+66b56c57,Vehicle,Acura TL,2001,51736.64,1
+eb1ab0f8,Vehicle,Porsche 911,2014,30326.21,3
+5f27fc6a,Vehicle,MAZDA B-Series Regular Cab,2006,91175.55,5
+545cfb0b,Machine,Kawasaki 65ZIV-2,2006,50632.49,5
+9c2dd4fd,Vehicle,BMW 1 Series,2011,13558.23,5
+e8a4abb7,Vehicle,Nissan Quest,2001,59893.29,3
+85c2a2ec,Vehicle,Jaguar XJ,2009,28269.69,3
+0fd3c730,Vehicle,Mercury Mariner,2011,24210.69,5
+82750210,Vehicle,Mercedes-Benz GLC,2018,34794.16,5
+d0eba801,Vehicle,Nissan Titan King Cab,2009,72474.15,1
+bf2c8b92,Vehicle,Chevrolet Silverado 2500 HD Regular Cab,2014,56655.1,4
+b34dda97,Vehicle,Subaru Outback,2014,93130.4,1
+5f55cf8c,Vehicle,Chevrolet Blazer,1994,91053.53,1
+965fb0df,Vehicle,Chevrolet Impala,1994,38826.0,1
+a44015cc,Vehicle,Ford F350 Regular Cab,1996,50925.87,5
+91cbcd9e,Vehicle,Pontiac G3,2010,31056.74,3
+879a0cb1,Machine,Hamm HD75,2003,71786.76,1
+f7a26b22,Vehicle,Mitsubishi Precis,1992,28987.21,5
+509db0c6,Vehicle,Scion xD,2013,76068.46,4
+d360cf4e,Vehicle,Ford F350 Crew Cab,1992,56700.61,2
+b13a3858,Vehicle,Lotus Elise,2006,16957.5,3
+640eeaef,Machine,Massey Ferguson MF5711,2018,32412.6,1
+6331ea1f,Vehicle,Hyundai XG300,2001,12015.99,4
+d62b123d,Vehicle,MAZDA B-Series Cab Plus,2003,88315.53,4
+3fd565cb,Vehicle,Hyundai Tucson,2007,73806.61,4
+49a0727f,Vehicle,Ford Transit 350 Van,2018,17139.53,1
+60f1c628,Vehicle,GMC Sierra 1500 Crew Cab,2013,51381.23,4
+9a8580f2,Vehicle,Dodge Spirit,1994,87969.29,2
+4bb7a5ad,Vehicle,smart fortwo electric drive,2015,30152.4,4
+bcef2933,Vehicle,Toyota Land Cruiser,1996,4499.22,5
+178e1396,Vehicle,Pontiac Grand Am,1999,77593.02,1
+47f5b638,Vehicle,Dodge Caravan Passenger,2002,32189.88,3
+12f53c6d,Vehicle,Volkswagen Cabrio,1995,29948.24,4
+a901035b,Vehicle,Plymouth Voyager,2000,77974.04,1
+bf7fd64d,Vehicle,GMC Savana 2500 Passenger,2011,63171.65,5
+550aa643,Vehicle,Toyota Highlander Hybrid,2017,63271.54,5
+63ad10b9,Vehicle,Mercedes-Benz SL-Class,2006,77827.24,4
+fe2fe50a,Vehicle,Mitsubishi Montero,2004,3486.06,5
+4410fe9f,Vehicle,Porsche Boxster,2014,92328.3,5
+ec54f8ef,Vehicle,Toyota RAV4,2016,56039.88,1
+b6b4c67e,Vehicle,Honda Element,2003,16080.44,2
+a3f2c196,Vehicle,Aston Martin Vanquish,2014,24299.36,4
+7917bfb9,Vehicle,Volvo S40,2000,29596.23,1
+28172e7d,Vehicle,Chevrolet Sportvan G20,1992,29474.41,5
+3eba68bc,Machine,Caterpillar 69D,2005,40765.42,4
+e3a409a1,Machine,Claas Lexion 550,2008,83534.12,2
+71095afb,Vehicle,Scion xA,2005,37913.09,4
+0a99101a,Vehicle,Hyundai Ioniq Hybrid,2019,4962.42,3
+1877813c,Vehicle,GMC Sierra 3500 HD Extended Cab,2012,40509.61,5
+6786eacc,Vehicle,Audi S4,2014,34881.41,4
+e6d0bc7d,Vehicle,Volkswagen Atlas,2019,5688.81,5
+328ef1ba,Vehicle,Honda Accord Hybrid,2018,41605.96,4
+254df011,Vehicle,Chevrolet S10 Extended Cab,2001,72568.97,1
+0430586c,Vehicle,Chevrolet Silverado 1500 Regular Cab,2004,71474.96,3
+8de49b2d,Vehicle,Chevrolet Suburban 1500,1998,43409.48,4
+10e5db54,Machine,Bobcat 863,2001,37156.74,5
+e9f042f0,Vehicle,Chevrolet Tracker,1999,99473.17,1
+0d889f31,Vehicle,Audi A6,2015,84478.71,2
+22363d2f,Vehicle,Lexus GS,2002,95448.08,2
+c51d3a6d,Vehicle,GMC 1500 Regular Cab,1997,91313.29,5
+96d5d100,Vehicle,Chevrolet Tahoe (New),2000,95236.76,1
+1fb80c3a,Vehicle,Audi R8,2018,66114.29,1
+50e731a2,Vehicle,Pontiac G5,2007,67027.17,5
+17678670,Vehicle,Scion xA,2004,77890.77,3
+c006f6a2,Vehicle,INFINITI I,2004,77500.99,1
+fadd7ea3,Vehicle,Mercedes-Benz CLS-Class,2009,91364.14,1
+ebffda47,Vehicle,Volvo V70,2008,56489.21,4
+73c7e8c3,Vehicle,Mercedes-Benz GLA,2017,92667.77,3
+92926fd6,Vehicle,Chevrolet Silverado 1500 Regular Cab,2002,16026.07,1
+25c2d5ed,Vehicle,GMC Yukon,2007,26587.12,5
+a6809d9e,Vehicle,Jeep Cherokee,1993,63718.42,1
+f73bc546,Vehicle,Kia Sedona,2017,75172.05,1
+e70d6de0,Vehicle,MINI Clubman,2012,10241.65,4
+abacb2a2,Vehicle,Nissan Altima,2006,98281.31,1
+88b337ee,Vehicle,INFINITI QX,2002,58897.69,4
+463c3f9b,Vehicle,Chevrolet Suburban 2500,1993,47321.18,5
+8d98b67c,Vehicle,Isuzu Trooper,1993,22099.59,1
+00bba47c,Vehicle,Audi Q5,2013,59288.21,4
+7a428c08,Vehicle,Bentley Arnage,2008,92417.07,1
+e5999967,Machine,John Deere 8345R,2012,64482.51,1
+72f4e9d0,Vehicle,Hyundai Sonata,1993,60819.41,1
+98cad966,Vehicle,Ford F250 Super Duty Crew Cab,2012,80054.79,2
+ea4250e0,Machine,Hitachi ZX210LC-5N,2013,60853.81,3
+b977ddb1,Vehicle,Dodge Sprinter 2500 Passenger,2006,15993.31,5
+785af67f,Vehicle,Honda Pilot,2019,44555.05,2
+bcadd7c9,Vehicle,MINI Hardtop,2010,58503.9,4
+f0d9b15d,Vehicle,MINI Cooper,2006,83222.31,5
+727a61f7,Vehicle,GMC 3500 Regular Cab,1994,56535.0,2
+98c38ba9,Vehicle,Audi A4,2019,5836.44,3
+0f6e33c2,Vehicle,Isuzu Oasis,1999,36171.09,2
+dbc2715f,Vehicle,Ford Windstar Cargo,2000,5576.1,1
+9d5ac8ee,Vehicle,Nissan JUKE,2015,76229.65,2
+5e26aed4,Machine,Komatsu D65PX-17,2005,10456.34,4
+8adcc7cf,Vehicle,Volkswagen Passat,1992,29298.21,1
+64076c51,Vehicle,Dodge Sprinter 3500 Cargo,2008,70553.07,5
+4d03a0c7,Machine,Bobcat S100,2004,57840.52,3
+70ac2738,Vehicle,GMC Sierra 2500 HD Extended Cab,2009,76700.84,4
+8c3f5b0b,Vehicle,Ford F350 Super Duty Crew Cab,2014,70109.27,5
+a6fbaa0f,Machine,Dynapac CA612D,2008,88731.15,4
+fac15141,Vehicle,Chevrolet Malibu (Classic),2008,4984.76,2
+a87e85b2,Vehicle,Chevrolet G-Series 3500,1997,54390.7,1
+fda47b3f,Vehicle,Toyota Sequoia,2008,72071.56,1
+6f302695,Vehicle,Jeep Grand Cherokee,1994,7508.2,3
+3cd2f048,Vehicle,Chevrolet Blazer,1999,29884.33,2
+6bd6212d,Vehicle,Volvo S40,2000,79076.55,1
+2209b717,Vehicle,Chevrolet Camaro,1998,25089.51,1
+1753ee93,Vehicle,Acura TL,2010,73755.92,2
+9605d6f9,Vehicle,Porsche 911,1998,83077.81,4
+6e55780e,Machine,Massey Ferguson 4610M,2011,72460.87,3
+82ee6aa3,Vehicle,Lexus ES,2015,77800.64,2
+777da3f5,Vehicle,INFINITI Q60,2015,4858.45,5
+1a1b3eef,Vehicle,GMC Yukon XL 1500,2012,34206.69,3
+d3f2d276,Vehicle,Aston Martin Vanquish,2015,77558.42,5
+b18756ca,Vehicle,Ram 1500 Quad Cab,2015,72904.38,2
+77fcb5b8,Vehicle,Ferrari GTC4Lusso,2018,66843.66,1
+762cf19d,Vehicle,Volkswagen Tiguan,2018,46999.39,4
+e8ece51e,Vehicle,BMW M4,2019,96964.95,4
+6cf868c2,Vehicle,Chevrolet S10 Regular Cab,1997,42070.56,5
+8bedaa2f,Vehicle,Toyota Matrix,2011,46549.72,5
+5d03d167,Vehicle,Ford Taurus,2007,41400.67,3
+dfd06287,Vehicle,Chevrolet Impala,2000,33199.33,5
+0b717cef,Vehicle,Chevrolet Monte Carlo,2000,79454.6,5
+e54564c3,Vehicle,Volvo V70,2005,81667.33,5
+694377da,Vehicle,Nissan NV3500 HD Passenger,2013,5849.01,3
+fb0cf812,Vehicle,Ford F250 Super Duty Super Cab,2006,53665.83,1
+492f3993,Vehicle,Chevrolet Silverado 1500 Extended Cab,2009,57861.04,4
+06a2b4be,Vehicle,Chevrolet Beretta,1993,87773.41,4
+13cf0897,Vehicle,Pontiac Sunfire,2002,3187.47,2
+9bbeb9eb,Vehicle,Ford Ranger Super Cab,2008,38357.53,1
+1285f03a,Vehicle,Rolls-Royce Wraith,2018,64213.85,5
+b677f2a8,Machine,Ingersoll Rand SD105F,2010,31554.6,5
+30eb1a4f,Vehicle,Land Rover Range Rover,2012,61604.9,5
+bc001849,Vehicle,Honda Pilot,2018,11222.11,1
+19a1ad7f,Machine,LiuGong 612H,2008,36027.52,4
+0f816bbe,Vehicle,HUMMER H3,2010,57072.89,1
+03b0ee55,Machine,Burch 278-2132,2010,72055.77,4
+25668e99,Vehicle,BMW M5,2015,3834.49,2
+2398f4ed,Vehicle,Mercedes-Benz SLK-Class,2006,42468.92,2
+19d3982e,Vehicle,Buick Century,1995,34000.9,3
+72915435,Vehicle,GMC Acadia,2008,9296.04,3
+7f2cbeeb,Vehicle,Mercedes-Benz Mercedes-AMG CLA,2018,35797.19,5
+5f710d3f,Vehicle,Nissan Altima,2004,74914.24,5
+585dff5d,Vehicle,Saab 5-Sep,2010,62215.24,2
+e2e24ece,Vehicle,Dodge Challenger,2016,36415.75,1
+f0cc529b,Vehicle,MAZDA Tribute,2008,67533.25,4
+e021572b,Vehicle,Lincoln Navigator L,2012,46181.38,1
+9405da8b,Vehicle,Audi S5,2013,68058.49,3
+a47b5521,Vehicle,Nissan NV200 Taxi,2016,85279.07,2
+10613742,Machine,Caterpillar 257B Series 3,2007,40504.62,3
+eb466b07,Vehicle,Lincoln Navigator L,2012,3629.99,1
+ddfd7a87,Vehicle,Lexus HS,2010,52195.52,2
+d1dd4f60,Vehicle,Porsche Cayenne,2005,44720.39,5
+536320d4,Vehicle,Lincoln Aviator,2005,85659.32,5
+cbd19d25,Vehicle,Volkswagen New Beetle,2009,77758.27,2
+0e4be083,Vehicle,Chevrolet Camaro,1993,35095.08,3
+007d64b0,Vehicle,FIAT 500L,2018,99753.61,1
+5634e914,Vehicle,Chevrolet Silverado 2500 HD Double Cab,2015,2001.79,4
+e26e787a,Vehicle,Chevrolet 2500 Extended Cab,1993,65448.44,4
+f6e03344,Vehicle,Ford GT,2005,61733.97,2
+accdd4d7,Vehicle,Mercedes-Benz CLS,2017,92774.11,1
+fe316746,Vehicle,Mercedes-Benz CLK-Class,2000,77982.54,5
+56fafd82,Vehicle,Lexus RX,2016,41327.08,2
+6c646fc2,Vehicle,Audi SQ5,2014,25432.56,5
+b6da8cc5,Vehicle,Kia Sedona,2007,96225.02,2
+2473e3f5,Vehicle,MINI Convertible,2007,76148.92,3
+eb3735da,Vehicle,Dodge Ram Van 3500,2001,9828.3,2
+2ad074c5,Vehicle,Dodge Grand Caravan Passenger,2013,86411.55,5
+55bf3db8,Vehicle,Honda Clarity Fuel Cell,2018,70957.62,1
+1cdb9a18,Vehicle,Lincoln MKT,2019,16438.23,1
+168ce828,Vehicle,Ferrari 458 Italia,2015,65365.26,2
+4aa5dc31,Vehicle,Mitsubishi Eclipse,2008,93735.11,3
+274d152e,Vehicle,Jaguar X-Type,2008,82215.52,4
+bf047f58,Vehicle,Land Rover Range Rover,2009,64272.91,2
+751091f1,Vehicle,GMC Sierra 1500 Regular Cab,2001,2702.79,3
+95176762,Vehicle,Jaguar XK,2004,58251.04,5
+fe0b9a75,Vehicle,Nissan Rogue,2016,67238.98,4
+0910385c,Vehicle,Dodge Ram 2500 Quad Cab,2008,60254.72,2
+9e170fec,Vehicle,Volvo 960,1993,87937.3,5
+9b88091c,Vehicle,Pontiac Sunbird,1993,55778.6,1
+7baecbaf,Vehicle,BMW X6 M,2013,51578.81,5
+4a3df61c,Vehicle,GMC Canyon Crew Cab,2018,37038.54,2
+179c1a1f,Vehicle,Nissan Quest,2016,81643.14,3
+522ba922,Vehicle,MAZDA CX-5,2018,85063.04,3
+1fd82b60,Vehicle,Acura Vigor,1992,54736.09,4
+d431f270,Vehicle,Ram 2500 Regular Cab,2015,41232.14,4
+20ed422c,Vehicle,Lexus ES,2012,70925.68,1
+ff769eab,Vehicle,Land Rover Range Rover Evoque,2012,12913.76,4
+758120da,Vehicle,Toyota Tacoma Double Cab,2015,14919.94,2
+9c2cd129,Vehicle,Dodge Ram 3500 Regular Cab,2002,10747.4,5
+a5fd47ea,Vehicle,Lexus IS,2017,41342.87,5
+ff8bb356,Vehicle,Porsche Carrera GT,2004,90065.98,1
+ebf90053,Vehicle,Pontiac Grand Prix,2006,28053.08,4
+4805abbc,Vehicle,Nissan Versa,2010,75450.88,4
+9e30f991,Vehicle,GMC Sierra 3500 Crew Cab,2006,48639.08,2
+63c6215d,Vehicle,Lexus NX,2020,96250.23,1
+5ca8cbaf,Vehicle,Hyundai Sonata,2012,51692.92,1
+5d6c1fc5,Vehicle,Toyota Tacoma Access Cab,2005,25163.81,3
+2473a111,Vehicle,Volkswagen Golf,2014,42336.63,3
+fb98ca9f,Vehicle,BMW 3 Series,2016,40889.69,5
+19f57f0c,Machine,John Deere 624J Powerllel w/QC & fork,2009,62762.21,1
+41a86b98,Machine,Caterpillar 299D XHP,2013,11117.86,2
+3fc1cd8d,Vehicle,Lexus ES,2017,63752.84,2
+0f6cb7bb,Machine,Kubota M6060HDCC,2017,55286.49,3
+3c7aaf97,Vehicle,Aston Martin Vanquish,2016,79756.59,3
+caf098a0,Vehicle,Rolls-Royce Phantom,2007,71230.71,1
+2d4a2be7,Vehicle,Ford Fiesta,2018,61981.08,2
+ea5f9f6a,Machine,Caterpillar 966E,2003,85632.07,5
+adbeae09,Vehicle,Hyundai Veloster,2019,49691.9,1
+4c517938,Vehicle,GMC Safari Cargo,2000,87401.73,5
+4670dc40,Machine,Massey Ferguson 1742,2006,78977.64,2
+41b9f8f9,Vehicle,GMC Sierra 2500 HD Regular Cab,2010,51608.43,3
+c6a1a386,Vehicle,Mercedes-Benz C-Class,1999,32098.02,2
+23d757af,Vehicle,Saab 3-Sep,2010,9774.39,5
+294c55f5,Vehicle,Toyota Tundra CrewMax,2009,10033.69,5
+d1a5ee07,Vehicle,Mercedes-Benz GLK-Class,2015,33978.79,2
+c2cb18c3,Vehicle,Mercedes-Benz 300 SL,1992,26456.28,3
+35e468a6,Vehicle,Mercedes-Benz Mercedes-AMG SL,2019,11285.58,3
+6dcc0b1d,Vehicle,Nissan 370Z,2010,10605.43,2
+db1b6334,Vehicle,Plymouth Breeze,1998,82690.94,4
+25504a24,Vehicle,Honda Accord Hybrid,2017,21585.82,4
+852c5fcb,Vehicle,Oldsmobile 88,1998,6316.85,1
+93225172,Vehicle,MAZDA B-Series Regular Cab,2009,94544.98,2
+6315f1d8,Machine,Hitachi LX210E,2006,68192.08,1
+0399cdc7,Machine,Mustang ML48T,2010,54953.51,1
+dadbb8d7,Machine,Valtra Classic N101,2011,78194.66,4
+8917cf69,Vehicle,INFINITI G,2002,12935.21,3
+d933b96f,Machine,Terex 3-90E,2017,71786.43,1
+b8fffa02,Vehicle,Chevrolet Express 2500 Passenger,2012,90950.18,1
+31aa3b01,Vehicle,Toyota Tundra Regular Cab,2013,63313.08,2
+b142ae0d,Vehicle,Toyota Highlander,2006,71684.79,5
+bf0f0bcd,Vehicle,Mercedes-Benz SL,2017,60802.52,1
+c23e652d,Vehicle,Nissan 370Z,2011,5236.71,3
+494d7078,Vehicle,Lincoln Blackwood,2002,96930.79,5
+08cf3bf3,Vehicle,Mercedes-Benz CLS,2018,12623.65,1
+33d78536,Vehicle,Ford Mustang,1999,45375.0,1
+9a5e31a7,Vehicle,Dodge Grand Caravan Passenger,2008,89066.25,4
+234af2a6,Vehicle,Toyota Sequoia,2020,92105.35,5
+35dcdda8,Vehicle,GMC Sonoma Extended Cab,2001,71011.45,2
+02fa2728,Machine,JCB 456HT,2016,16514.83,3
+e8007659,Vehicle,GMC Savana 1500 Passenger,2007,40512.27,2
+d7e31c1d,Vehicle,Dodge D150 Club Cab,1993,60228.04,1
+db14db01,Vehicle,MAZDA MPV,1995,10244.41,1
+9b6c06ef,Vehicle,INFINITI Q,1996,51062.25,4
+b084ceda,Vehicle,Buick Skylark,1997,80385.4,1
+cb9d35e1,Vehicle,Lexus GS,1996,12209.84,1
+bfecf903,Vehicle,Nissan NV3500 HD Cargo,2017,93044.0,1
+76ce525f,Vehicle,Lexus SC,1995,20224.94,2
+b5e7d529,Vehicle,Toyota FJ Cruiser,2012,10160.39,4
+bfea0736,Vehicle,Buick Park Avenue,1994,23123.27,1
+4fe4f9d6,Vehicle,Chevrolet TrailBlazer,2004,68643.95,3
+333a2e92,Vehicle,BMW 2 Series,2019,72891.76,4
+6aa90a9d,Vehicle,Lincoln MKT,2018,76009.5,4
+46bf5887,Vehicle,Ford Expedition,2019,59258.73,4
+bd6ae7fa,Vehicle,Toyota T100 Regular Cab,1996,57039.97,2
+cfdb34f8,Vehicle,Toyota Tundra Regular Cab,2008,88348.94,3
+69b015c7,Vehicle,Kia Amanti,2005,10044.69,4
+28e15e73,Machine,Komatsu HD465-5,2010,25542.72,5
+0c245dfc,Machine,Komatsu CK30-1,2010,98463.27,5
+0db50428,Vehicle,Nissan Pathfinder,2005,10767.65,2
+4c79f92e,Vehicle,Porsche 718 Boxster,2017,80741.57,2
+6a8a5bf3,Vehicle,Ferrari California,2017,98301.95,2
+2881ca86,Vehicle,Ford Expedition,2014,16645.65,3
+64701ce9,Vehicle,Ford F450 Super Duty Crew Cab,2014,5276.07,3
+e56371a0,Vehicle,Oldsmobile Aurora,1997,60044.27,3
+88661a7e,Vehicle,Chevrolet Avalanche 1500,2003,17211.76,5
+5fc7759d,Vehicle,Ford Explorer Sport Trac,2001,95004.97,1
+7556ca77,Vehicle,Chevrolet Silverado 2500 HD Regular Cab,2008,19881.58,5
+b2061b20,Vehicle,Audi A4,2016,11258.45,3
+044a1a19,Vehicle,Oldsmobile Silhouette,1994,45638.06,3
+0202b8c9,Machine,Ingersoll Rand DD118HFA,2016,86039.53,1
+01440417,Vehicle,Nissan Altima,2010,68208.65,4
+493c5176,Vehicle,Chrysler 300,2008,82620.63,1
+cb6af5a2,Vehicle,Mitsubishi Raider Double Cab,2009,72610.99,4
+42aa0fd5,Vehicle,Nissan Pathfinder,2018,32450.92,3
+5ac80c0d,Vehicle,Ford Ranger Super Cab,1998,72875.65,3
+5dac6ad8,Vehicle,Mitsubishi Mighty Max Regular Cab,1995,61065.83,5
+c08c54ae,Vehicle,Saturn S-Series,2000,25465.29,5
+ffd395ee,Vehicle,Ram 3500 Mega Cab,2018,51606.07,5
+808b6614,Vehicle,Lexus RC,2015,43376.36,5
+24059e6a,Vehicle,Ford Econoline E150 Passenger,2000,51858.5,1
+1b06267d,Vehicle,MINI Hardtop 2 Door,2018,62501.23,3
+10cc4d3b,Vehicle,Ford F250 Super Cab,1996,55251.76,3
+e3f28f0e,Vehicle,GMC 1500 Club Coupe,1995,65733.7,1
+2ff36868,Vehicle,Chevrolet Equinox,2019,64450.96,3
+3458af3e,Vehicle,Toyota Camry,2003,18045.6,5
+986394de,Vehicle,Ford Explorer,2009,7778.25,4
+18e6f5ba,Machine,New Holland TD80D,2016,2289.13,4
+18a1bdf2,Vehicle,Ford E250 Cargo,2013,79400.09,5
+54e55a07,Vehicle,Ford Econoline E150 Cargo,2002,98384.09,5
+8af6e3c7,Vehicle,BMW X5,2007,21214.67,5
+82286b96,Machine,Case IH FARMALL 35C SERIES II,2008,96494.4,3
+745a08da,Vehicle,Honda Insight,2005,37628.46,3
+0f181a06,Vehicle,Kia Cadenza,2018,77188.13,3
+5517589a,Vehicle,MINI Convertible,2019,33507.55,4
+4c8431e3,Machine,Daedong CK22,2007,98991.77,3
+a0f8bc91,Vehicle,MAZDA CX-9,2012,21096.86,1
+f955ad47,Vehicle,Dodge Ram Van 1500,2000,50507.76,5
+133e0def,Vehicle,Volvo XC70,2011,95260.3,2
+2853c7d2,Vehicle,Dodge Magnum,2005,78706.42,3
+2b784300,Machine,Caterpillar BG210B,2016,19591.83,5
+83727b7d,Vehicle,Bentley Mulsanne,2014,13883.39,2
+fa888647,Machine,Massey Ferguson MF 5355,2015,68487.92,4
+e36df4d5,Vehicle,Honda Civic,2009,35058.47,5
+52df1b9f,Vehicle,Jeep Cherokee,2018,66138.51,2
+972d37d1,Vehicle,Kia Sportage,2005,69199.73,1
+33e8deb4,Vehicle,Honda CR-V,2003,26601.34,1
+80e3129a,Vehicle,Ford Taurus,2003,91989.55,5
+a7a61409,Machine,New Idea 6244,2006,75927.2,3
+e223a33b,Vehicle,Mercedes-Benz 600 SL,1993,15667.16,1
+d6deb72e,Vehicle,Maybach 62,2009,8336.68,2
+9e477cd8,Vehicle,Honda S2000,2003,20759.38,3
+4e339903,Machine,New Holland SP.300C,2000,52373.62,1
+9854dab6,Vehicle,Kia Sorento,2009,9230.84,3
+dc0a317b,Vehicle,MAZDA 626,1994,80321.42,5
+f850bced,Vehicle,Toyota Sienna,1999,24100.63,3
+969777ab,Vehicle,BMW M6,2018,99595.98,4
+07bb265f,Vehicle,Chevrolet Express 2500 Cargo,2013,79228.49,2
+b104dfd4,Vehicle,Dodge Ram Van 1500,2003,55786.48,2
+373cdf79,Vehicle,Chevrolet Tahoe,2003,9823.46,5
+f9ee14fe,Vehicle,Buick Enclave,2010,83510.25,5
+864b682c,Vehicle,Isuzu VehiCROSS,2000,1867.09,2
+8e80faf2,Vehicle,Geo Tracker,1993,49225.77,5
+37d7d61f,Vehicle,Nissan LEAF,2017,31864.77,5
+375dbbca,Vehicle,Chevrolet Sportvan G30,1996,60727.16,3
+9200a16d,Machine,Krause 7400-27W,2018,5268.15,5
+77b19afb,Vehicle,Toyota Land Cruiser,1992,64552.65,5
+d7138493,Vehicle,Honda Element,2006,2460.24,4
+2dbcbc87,Vehicle,Dodge Ram 3500 Quad Cab,2004,89318.75,2
+78aa7820,Vehicle,Cadillac DTS,2008,20648.06,5
+3d68a542,Vehicle,Chevrolet S10 Regular Cab,1996,64888.67,5
+40a758f2,Vehicle,Dodge Ram 3500 Regular Cab,2006,20881.0,2
+16e4e13e,Vehicle,Kia Optima Hybrid,2017,23288.82,4
+8785713d,Vehicle,Chrysler Crossfire,2008,81948.83,1
+8e15fb65,Vehicle,GMC Savana 3500 Cargo,1997,86499.79,2
+d57b9f85,Vehicle,Nissan Maxima,2005,58473.82,4
+e6a76833,Vehicle,Subaru Impreza,2002,87313.7,4
+fccc0732,Vehicle,Toyota Tundra Regular Cab,2010,92805.05,5
+70ce9f5e,Vehicle,Kia Sportage,1997,2084.64,3
+be77fd84,Vehicle,INFINITI QX80,2016,15861.71,3
+d00e3a9b,Vehicle,Toyota Tundra Regular Cab,2002,1360.26,4
+b643d1ec,Vehicle,Jeep Grand Cherokee,2007,94817.34,1
+4b5bfda1,Vehicle,Honda Ridgeline,2018,35385.93,3
+eedca7a4,Machine,Krause 2495NR,2002,60815.1,5
+159036fe,Vehicle,Toyota Corolla iM,2018,35867.5,2
+948a763c,Vehicle,Porsche Cayman,2014,17789.08,2
+7322e1ba,Machine,Bomag BW120AD3,2017,58378.72,3
+23d96177,Vehicle,Ford E150 Cargo,2014,42955.64,2
+c0339a47,Vehicle,INFINITI QX50,2017,47120.24,4
+67eeb6f8,Vehicle,Ford Club Wagon,1997,98711.22,4
+3d10565d,Vehicle,BMW M3,2017,24413.71,1
+73130709,Vehicle,Nissan Pathfinder,1993,20456.51,4
+18e00482,Vehicle,Buick Roadmaster,1995,79393.79,3
+8b8972f1,Vehicle,BMW X6 M,2016,67320.71,2
+a337b970,Vehicle,Ford Econoline E350 Super Duty Passenger,1999,69308.42,1
+464c3b5a,Vehicle,Chevrolet Impala,2019,14367.41,5
+2d5a5e3e,Vehicle,Pontiac Firebird,1996,10878.01,4
+f3b6bf85,Vehicle,Lexus RC,2015,91765.87,3
+7376bfa4,Vehicle,Volvo S80,2007,11072.24,4
+73b0c187,Vehicle,GMC Savana 3500 Cargo,1997,39672.78,2
+a07be510,Vehicle,Dodge Caravan Passenger,1992,51868.03,1
+be0e090e,Vehicle,Volvo XC60,2015,95894.32,2
+7fbecd3d,Vehicle,BMW 5 Series,1994,8289.57,2
+34d84ddc,Vehicle,Audi S5,2013,51861.11,5
+708039bc,Vehicle,BMW Alpina B7,2007,80238.09,3
+48d31d43,Vehicle,smart fortwo,2016,24255.61,5
+088c9459,Vehicle,GMC Safari Passenger,1998,61316.17,4
+6d84fb53,Machine,New Holland TB120 High Clearance,2006,45851.78,2
+b4f83d85,Vehicle,Audi A4,1996,46977.74,1
+e703d9a9,Vehicle,Mitsubishi Endeavor,2005,76130.37,4
+38d641ff,Vehicle,Ford Explorer,1992,78959.17,2
+861b548d,Vehicle,Chevrolet Venture Cargo,2005,5966.39,3
+8893d287,Vehicle,Maserati Quattroporte,2014,36686.55,5
+27e61417,Vehicle,Cadillac Eldorado,2002,86435.95,1
+1404da7f,Vehicle,Maserati GranTurismo,2010,48558.61,3
+01dec92c,Vehicle,Acura MDX Sport Hybrid,2017,44887.34,4
+1f2bfc1c,Vehicle,Chevrolet Camaro,1996,3410.46,4
+02789cab,Vehicle,Toyota Camry,2019,59101.5,4
+adc9205f,Vehicle,Acura MDX Sport Hybrid,2017,32308.58,2
+bd50ab35,Machine,Case IH 8120,2016,10053.06,1
+fd1bc1b3,Vehicle,INFINITI EX,2011,46337.2,5
+fc4cf034,Vehicle,Nissan Frontier King Cab,2014,5378.04,3
+e9fc4b25,Vehicle,Jeep Commander,2009,98085.62,1
+8aada536,Vehicle,Cadillac Seville,1999,86436.05,2
+669cd077,Machine,Schaffer 9100Z,2013,72973.68,1
+cf1df67c,Vehicle,Jeep Comanche Regular Cab,1992,35180.55,1
+191a989d,Vehicle,Chevrolet Express 3500 Cargo,2011,68692.71,2
+f4ffbb83,Vehicle,Chrysler Sebring,2004,50735.48,3
+58d2d826,Vehicle,Chevrolet 2500 HD Extended Cab,1999,55721.04,3
+9b98625d,Vehicle,Plymouth Voyager,1994,98288.47,3
+c34c9a55,Vehicle,Ford F250 Super Duty Crew Cab,2014,86221.95,5
+9b0d6ee3,Vehicle,Buick Park Avenue,1999,83662.89,4
+b171a4df,Vehicle,Toyota RAV4,2003,92976.12,1
+3f78cf6c,Vehicle,Ford Transit Connect Passenger,2011,2797.17,5
+73516658,Vehicle,BMW M6,2019,57101.35,2
+2fc8cef0,Vehicle,Hyundai Elantra,1995,82817.73,4
+7c85b9b0,Vehicle,MAZDA Tribute,2008,53641.95,4
+a8dfcfe0,Vehicle,Nissan Pathfinder,2017,63766.58,1
+2337fa5c,Vehicle,Aston Martin Vanquish,2017,90314.51,3
+4f03f92e,Vehicle,Ford F350 Super Cab,1996,70480.83,1
+1af9bb23,Vehicle,Honda CR-V,2018,72862.36,5
+4360d7f3,Vehicle,Buick Park Avenue,1995,82762.84,2
+f113f131,Machine,AGCO ST33a,2003,5898.25,5
+a13606e1,Vehicle,Chevrolet Equinox,2013,16364.65,4
+0e7d5afe,Vehicle,Mercedes-Benz E-Class,2001,20278.34,3
+d64543d0,Vehicle,Buick Skylark,1994,45012.65,5
+b27bf6be,Vehicle,Ford Taurus,2016,64772.5,3
+96de1941,Vehicle,Toyota 4Runner,2014,54914.83,2
+ddaf8247,Vehicle,Toyota Matrix,2005,19971.55,2
+3db5696f,Vehicle,Lexus RX,2009,26080.49,1
+30fc0f19,Machine,New Holland T4050F,2011,88298.58,3
+8ce08106,Machine,New Holland E235SRLC,2006,15000.81,2
+9fe0eb74,Vehicle,Honda Element,2005,56565.31,1
+bb5ee53f,Machine,Volvo L50C,2016,5160.17,3
+67632586,Vehicle,Oldsmobile Cutlass Ciera,1992,58666.94,4
+a1ea14e6,Machine,Krause 7300-24NR,2015,6124.18,2
+4906ed2c,Vehicle,Volvo XC90,2006,1732.37,3
+281a208e,Vehicle,Chevrolet Suburban,2016,90867.76,5
+335c28fc,Vehicle,Mercedes-Benz CLA-Class,2014,44990.68,2
+0c552234,Machine,Case IH FARMALL 85C FLAT DECK,2015,61347.77,5
+e509caf8,Vehicle,Toyota Corolla,2007,11084.35,2
+04056bf9,Machine,Case IH ATX400 33ft,2019,91716.07,1
+a246d07f,Vehicle,Ford Fusion,2019,65874.28,2
+1744639e,Vehicle,Volkswagen Jetta,2017,3609.1,2
+beb246c1,Vehicle,Chevrolet G-Series G30,1996,18570.92,4
+1f12ec8f,Vehicle,Cadillac SRX,2011,71493.9,4
+b055a5c8,Machine,Terex TLB840R,2011,48447.61,3
+a28eaa87,Vehicle,Volkswagen Passat,1997,67838.08,1
+5de6fe43,Vehicle,Mitsubishi Eclipse,1995,25059.39,4
+fbaf9e8d,Vehicle,Ram 1500 Crew Cab,2016,72287.59,5
+10cade2b,Vehicle,Land Rover LR2,2009,35089.35,3
+49b550ee,Vehicle,Nissan Altima,1997,33798.11,2
+7089712b,Vehicle,Ford F350 Super Duty Regular Cab,2016,82499.11,3
+7f841038,Vehicle,Porsche Panamera,2020,38425.54,5
+bdb9cb79,Vehicle,Cadillac CTS,2019,47388.11,5
+a99d5bac,Vehicle,Porsche Boxster,2008,89621.08,5
+031f6386,Vehicle,Chevrolet Silverado 2500 HD Crew Cab,2020,9014.22,5
+c6ff82f5,Vehicle,Ford Fusion,2006,2776.41,1
+6aead467,Vehicle,Kia Forte5,2015,52923.43,4
+f887de43,Vehicle,Toyota Avalon,2013,95403.42,5
+e1349485,Vehicle,MAZDA CX-30,2020,67078.54,4
+3d5ff80f,Vehicle,Lexus GS,1999,32754.14,2
+88caab03,Vehicle,Plymouth Grand Voyager,2000,33999.27,3
+dbac7864,Vehicle,Volvo V70,2000,22067.49,2
+91c637b9,Vehicle,Saab 9000,1993,87364.89,1
+3dec5d40,Vehicle,Honda del Sol,1996,11097.22,1
+e1f4b6bd,Vehicle,Hyundai Excel,1994,17593.82,4
+8305b13a,Vehicle,Ford Transit Connect Passenger,2015,28741.47,1
